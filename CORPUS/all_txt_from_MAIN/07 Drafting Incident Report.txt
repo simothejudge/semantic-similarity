@@ -1,0 +1,121 @@
+Structure of the Report
+The next step, after determining the WHATS and WHYS of the occurrence, is to prepare the report in
+which the facts are supposed to speak for themselves and the conclusions to logically flow from the text.
+
+In order to write a good report, the investigator must acquaint the readers with the facts, conditions, and
+circumstances of the occurrence in an orderly fashion, and analyse the information so that the
+conclusions and recommendations can be understood.
+Clarity in report writing can be enhanced by reporting sequentially. The History of the flight should describe the flight in a logical sequence from start to finish. Placing events out of
+sequence tends to confuse the reader. Each sentence of the Report should be a logical unit. The writer should keep the subject of the
+sentence and its verb close together. Long asides between the subject and the verb interrupt the flow
+
+of the sentence. The information should be organised logically within each section and grouped under
+an appropriate heading.
+
+Section 1 — Factual Data Information
+Factual Information, the investigator describes what happened and includes
+information pertinent to the understanding of the circumstances surrounding the occurrence. This
+subsection could be divided into subsection which are a tool useful to better understand the logical flow
+of information. Information should:
+
+Provide an understanding of how the occurrence happened;
+
+Present in general terms the role of operational personnel involved and their qualifications;
+
+Provide the facts and background of hazards identified, both related and unrelated to the causes of
+
+the occurrence.
+
+From a practical point of view Factual Information is accomplished also using the SHELL model
+which facilitate the data collection (and classification) to used for the factual information. (SHELL
+is a gathering tool in both the investigation and the presentation of factual information in the
+
+Section 1 — Factual Data Information History of the Flight: It describes the circumstances: crew, front-line operators, ATC personnel,
+ground crew, etc.
+Personnel Information: It includes experience, training, qualifications, duty and rest periods of the
+crew, information about operational personnel, staff, management, or regulatory personnel.
+
+Aircraft Information: Aircraft design, certification, airworthiness, maintenance and
+
+mass
+
+and
+
+balance issues are taken as object of this subsection.
+Additional Information: communications, nav-aids, weather, pathological issues, etc; provides a
+place to include information that cannot be readily included in any of the previous sub-sections.
+In summary, throughout Section 1 of the report the deviations, discrepancies and hazards are compared
+to a recognized standard or with empirical evidence.
+
+Deloitte Consulting ATS Modello SHELL Descrizione
+
+Analysis, Here the investigator can concentrate on developing the reasons why the
+circumstances resulted in the accident, creating the bridge between factual information and conclusions.
+ Having established all of the important factual issues making up the occurrence, the investigator must
+then develop the causal links in the analysis section.
+In the analysis part of the Report, the significance of the relevant facts and circumstances which were
+presented in the factual information part should be discussed and analysed in order to determine which
+events contributed to the accident.
+There might be a necessity to repeat the description of some of the evidence already presented in the
+factual information part, however, the analysis should not be a restatement of the facts. Also, no new
+facts should be introduced in the analysis part. The purpose of the analysis is to provide a logical link between the factual information and the
+conclusions that provide the answer to why the accident occurred. All reasonable hypotheses should be
+stated and evaluated to demonstrate that alternative explanations of the events have been carefully
+considered.
+
+Section 2 Use of HFACS model. An effective way to present the analysis is through the use of HFACS
+model. HFACS model — like the SHELL model — is a tool, and the two go hand in hand. HFACS model is
+an analytical framework on which the factual information gathered by SHELL can be analysed.
+HFACS fosters a systematic approach to investigation and encourages the investigator to include a
+
+description of the conditions at the time of the occurrence, line management involvement, and the
+fallible decisions of upper management and the regulator, followed by an analysis of each of these
+elements in the accident sequence.
+The model helps the investigator to identify the hazards (by mean of taxonomy) that combined to
+create the occurrence and points the mitigation actions for redress of these hazards.
+Once the causation chain has been formulated and causal hazards identified, the investigator can turn
+to other hazards that were non-contributory but which nevertheless warrant safety action.
+Section 3 Findings
+Section 3 the Findings. Are statements of all significant conditions, events or circumstances in the
+accident/incident sequence.
+The findings are significant steps in the accident sequence, but they are not always causal or indicate
+deficiencies. Some findings point out the conditions that pre-existed the accident sequence, but they
+are usually essential to the understanding of the occurrence. The findings should be listed in a logical
+sequence, usually in a chronological order.
+All findings must be supported by and directly related to the factual information and the analysis. 
+new factual information should be introduced in the findings.
+Significant events and factors that were investigated in detail, but eliminated in the analysis, should
+also be stated in the findings.
+
+
+Conclusions & causes, should flow logically from the analysis, the conclusions stated
+should be consistent with the analysis and all hazards should be identified appropriately.
+Important conclusions may be paraphrases or duplications of the hypothesis drawn in the analysis and
+findings. Investigators must be careful to use the same degrees of certainty in their conclusions as
+they have established in their analyses. Some of the more likely hypotheses should be discussed, however sometimes the circumstances of
+the accident are such that no firm conclusion can be drawn about causes; in that circumstances the
+investigator should have no hesitation to state that the causes remain undetermined.
+
+
+The expression of causes should be a concise statement of the reasons why the accident occurred
+and not an abbreviated description of the circumstances of the accident.
+
+Also, avoid the tendency to highlight the active failures of the persons closest to the event rather than
+to establish a complete explanation of systemic causal factors why the accident occurred.
+
+
+The safety recommendations are actions which should prevent other accidents from similar
+causes or reduce the consequences of such accidents.
+
+In order to ensure that appropriate action is taken, each safety recommendation should include a
+specific addressee. Attention should be focused on the problem rather than the suggested solution.
+
+A safety recommendation should describe the safety problem and provide justification for safety
+
+actions, and should include a convincing presentation of the safety problem with the attendant
+safety risks deriving from it. Finally it
+
+recommended course of action for the responsible authority
+
+to take in order to eliminate the unsafe condition.
+

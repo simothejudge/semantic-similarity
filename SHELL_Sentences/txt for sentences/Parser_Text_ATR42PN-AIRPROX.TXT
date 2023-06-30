@@ -1,0 +1,149 @@
+ title: atr 42 pantelleria serious airprox ver 06 november 2017.
+
+ 3 the crew of flight iss1834 read back incorrectly the controller clearance as flightlevel fl110.
+L#
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> read back 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				- PP108 CHALLENGE AND REPLAY
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> oral communication (SYN: clearance) 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				
+
+ 4 the pantelleria controller did not notice this incorrectread-back.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+
+ 6 at 13h50:19 hours the crew of iss1834 switched frequencies to rome acc, and reported:`` rome good afternoon iss1834, passing fl 7 2, climbing 1 1 0, inbound robet''.
+L#
+
+ 7 also, the rome acc controller did not notice the error in the cleared altitude of the flight iss1834.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+ICAO:
+L --> PHYSICAL FACTORS--> physical characteristics --> height (SYN: altitude) 
+HFACS: 
+				- PC4XX PHYSICAL AND MENTAL LIMITATIONS
+				- PC403 ANTROPOMETRICAL & BIOMECHANICAL LIMITATION
+				- AE301 ERROR DUE TO MISPERCEPTION
+				
+
+ 9 this clearance was immediately corrected by the rome acc to fl110 as result of the previous communication from pantelleria tower about the presence of flight iss1834 at flightlevel fl 100.
+L#
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> oral communication (SYN: clearance) 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: corrected) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+
+ 10 at 13h53:49 hours the flight iss1834 reached flightlevel fl110 but rome acc controller did not notice.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+
+ 11 at this moment both aircraft were at flightlevel fl110 in opposite directions with a separation of4,55 nm.
+E#
+ICAO:
+E --> EXTERNAL --> Other factors  --> other air traffic (SYN: opposite directions) 
+HFACS: 
+				- PE1XX PHYSICAL ENVIRONMENT
+				
+ICAO:
+E --> EXTERNAL --> Other factors  --> other air traffic (SYN: separation) 
+HFACS: 
+				- PE1XX PHYSICAL ENVIRONMENT
+				
+
+ 16 the time base of pnl twr cold was 4 minutes later than the time base of rome acc.
+S#
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Computers  --> time base 
+HFACS: 
+				- PE202 INSTRUMENTATION AND SENSORY FEEDBACK SYSTEMS
+				- 206 AUTOMATION
+				
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Computers  --> time base 
+HFACS: 
+				- PE202 INSTRUMENTATION AND SENSORY FEEDBACK SYSTEMS
+				- 206 AUTOMATION
+				
+
+18 the tower controller in pantelleria and the controller of rome acc had the false assumption that iss1834 flight was actually climbing for the authorized level of fl100, while it was evident that the crew of the flight in question was executing a manoeuvre to climb up to fl110.
+L#
+
+19  this false belief first of controller of pantelleria tower and later of rome acc controller; associated with lack of vigilance in the exercise of the radar surveillance by rome acc cta officer; did not detect the climb beyond authorized limits of the iss1834, which was entering a flightlevel assigned to an opposite route flight yet.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Confidence  --> confidence (SYN: belief) 
+HFACS: 
+				- PC206 OVERCONFIDENCE
+				
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Attention  --> vigilance 
+HFACS: 
+				- PC101 INATTENTION
+				
+ICAO:
+L --> WORKER-MANAGEMENT --> Regulatory agency  --> surveillance 
+HFACS: 
+				
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Attention  --> inattention (SYN: not detect) 
+HFACS: 
+				- PC101 INATTENTION
+				
+
+20 the accident was avoided by the last remaining barrier that was the tcas ii advisory system.
+H#
+ICAO:
+H --> WORKSPACE --> communication equipment (SYN: tcas) 
+HFACS: 
+				- PE208 COMMUNICATION EQUIPMENT
+				- OC003 PERCEPTION OF EQUIPMENT
+				

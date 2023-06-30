@@ -1,0 +1,43 @@
+The design of aircrafts is a complex process that involves various specialists for the huge
+range of details and different aspects that have to be regarded. For each special discipline
+in this domain, there exist a variety of software tools, off the shelf or self-made by the
+engineers, to support the development in the current tasks at hand. Often, data has to be
+exchanged between those tools, and currently, this is often a mostly manual and needlessly
+time consuming task; data from one program has to be mapped accordingly for another
+program, which can become difficult in programs (especially self made ones using environments like mathematica) where often just some arbitrary floats and arrays get passed
+around. Also, this kind of mapping has to be done between all programs that exchange data
+between one another, in the worst case in both directions, which poses an n:m relationship
+regarding the data exchanges.
+The basic idea behind this thesis was to use a central data model that all exchange data
+from tools is mapped to. This way, there would only have to be mappings between each
+tool and the central data model, changing the mapping relationship from n:m to n:1 and
+thus greatly reducing the effort. Furthermore, this central data model could also be used to
+perform plausibility checks on the given data to assert that the mappings are also correct,
+for example regarding dimensions, units, or certain integrity constraints. Instead of using
+a classic data model, the incentive was to see whether an ontology can fulfil this task.
+Ontologies usually at least form a thesaurus (or to be exact, a class hierarchy) for the given
+domain; furthermore, with the aid of a so-called reasoner, ontologies are also able to deduce knowledge that is only implicitly modelled. However, building an ontology is no trivial
+task. In order to get a sound result, following a sophisticated development methodology is
+necessary. But in order to select a methodology for this project, one has to know what kind
+of ontology development methodologies exist.
+Thus, the first major part of this thesis is to assemble an overview of available development methodologies, present and compare them. With these insights, it is then possible to
+select a methodology to be used for the ontology development. This is the second major
+part of this thesis, constructing the aircraft design ontology by following the selected ontology development methodology. The execution of the methodology will conclude with an
+evaluation of the built ontology, a discussion about this execution and potential deviations
+or special situations or findings, a detailed description of the built ontology, and lastly a
+final conclusion of what might be interesting follow ups regarding further developments.
+As for the development of the ontology, example data from three software tools that are
+in use for aircraft design at Bauhaus Luftfahrt, a Munich aerospace research institute that
+is the cooperating partner in this thesis, is provided as a basis and reference. The ontology
+concentrates mainly on one aspect of an aircraft, which is the structure and static build-up.
+
+the size and layout of the tail
+the configuration, layout and position of the undercarriage
+weight estimates that affect the design (e.g. operating weight empty, maximum
+take-off- or maximum landing weight, etc.)
+performance estimates and boundaries
+For each of these aspects, there are lots of details that have to be decided and designed, and
+for each aspect specialists and special design tools are required. As soon as the configuration
+is set, the design process can continue with the next phase.
+Ontology Development Process methodology for the ontology creation, i.e. the tailoring of the methodology
+to this project and creation of a specification and project plan.

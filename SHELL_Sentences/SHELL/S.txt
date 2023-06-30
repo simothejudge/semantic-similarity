@@ -1,0 +1,21 @@
+# AUTOMATION --> Computers: time base --> 8
+The time base of PNL TWR was 4 minutes later than the Time base of Rome ACC
+# REGULATORY REQUIREMENTS --> Written information: publications --> 21
+mitigation measures were used
+risk assessment was made
+written limiting factors
+poor written directive
+Poor risk analysis for assistance and support
+the directive defined only the general outlines of crew employment
+the local commands had not yet developed their own guidelines
+the local commands did not defined the case studies of derogation 
+the local commands did not defined any associated mitigating risk measures
+the directive did not provide other limiting factors
+# REGULATORY REQUIREMENTS --> Written information: NOTAMs --> 20
+a lack of reliable information on the performance of the ndb
+a lack of reliable information about the wind condition
+delay in receiving notams
+# REGULATORY REQUIREMENTS --> Written information: directives and regulations --> 22
+description of displacement positions
+not adequate procedures were found
+lack of emergency procedures

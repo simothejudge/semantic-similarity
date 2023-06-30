@@ -1,0 +1,28 @@
+# EQUIPMENT --> Workspace: Communication equipment --> 23
+the accident was avoided by the TCAS II advisory system
+the ndb ground aid gave erratic indications during instrument approaches
+there were no visual or oral signals to warn the pilot
+# EQUIPMENT --> Workspace: layout --> 34
+apu
+aircraft type
+not accessible equipment
+access to emergency equipment
+# EQUIPMENT --> Workspace: comfort --> 22
+an aircraft not equipped with ground spoiler
+# EQUIPMENT --> Equipment failure --> 1
+provider aircraft's unsuitability for all weather operations
+the aircraft was not adequate and suitable for the distance to cover
+absence of proper specific equipment
+the aircraft lost speed
+bad conditions of the operational room
+malfunction of the equipment
+intermittent contact cable 
+# EQUIPMENT --> Workspace: visual restriction --> 33
+visual limitations for physical elements
+view restrictions
+# EQUIPMENT --> Workspace: alerting and warnings --> 21
+warning light illuminated
+flag warning
+# EQUIPMENT --> instrument design and illumination --> 24
+the warning light had illuminated
+The flag confirmed the warning

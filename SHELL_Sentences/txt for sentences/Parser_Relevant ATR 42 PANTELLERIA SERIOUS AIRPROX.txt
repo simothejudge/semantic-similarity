@@ -1,0 +1,122 @@
+TITLE: relevant ATR 42 PNL  SERIOUS AIRPROX Vers 20 March. 
+
+1 At 13h37 UTC the Pantelleria Tower controller cleared the aircraft ISS1834 which was taking off inbound to Palermo  to climb to FL100, but the crew read back as FL110.
+L#
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> readback 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				- PP108 CHALLENGE AND REPLAY
+				
+
+E2 The Pantelleria controller did not notice this incorrect readback,  Later the Pantelleria  tower controller  informed Rome Aircraft Control Center (South Sector) that  the aircraft ISS1834 had been cleared to FL100.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> readback 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				- PP108 CHALLENGE AND REPLAY
+				
+
+3 At 13h50:19 the aircraft  ISS1834 switched frequencies to Rome aircraft control center, and reported: Rome good afternoon aircraft ISS1834, passing FL 7-2, climbing 1-1-0, inbound ROBET.
+L#
+
+3#0 Also, the Rome Controller did not notice the error in the cleared altitude of the  aircraft ISS1834.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+ICAO:
+L --> PHYSICAL FACTORS--> physical characteristics --> height (SYN: altitude) 
+HFACS: 
+				- PC4XX PHYSICAL AND MENTAL LIMITATIONS
+				- PC403 ANTROPOMETRICAL & BIOMECHANICAL LIMITATION
+				- AE301 ERROR DUE TO MISPERCEPTION
+				
+
+E3#1 At 13h52 another Meridiana flight, the aircraft ISS1825 (MD-82) from Palermo to Pantelleria, was being cleared to descend to FL100 by the Rome  controller.
+L#
+
+3#2 At 13h52:40 Rome controller firstly authorized ISS1825 to descend to FL 100; then remembering that FL 100 was previously assigned by Pantelleria Tower at aircraft ISS1834 informed ISS1825 to descend and maintain FL 110.
+L#
+
+4 This clearance was immediately corrected by the Rome controller to FL110 as result of the previous communication from Pantelleria tower  about the presence of aircraft ISS1834 at FL 100.
+L#
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Oral communication  --> oral communication (SYN: clearance) 
+HFACS: 
+				- PP106 COMMUNICATING CRITICAL INFORMATION
+				- PP112 MISCOMMUNICATION
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: corrected) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+
+5 At 13h53:49 aircraft ISS1834 reached FL110 but Rome controller did not notice.
+L#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge (SYN: notice) 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Crew interactions  --> supervision (SYN: not notice) 
+HFACS: 
+				- PP102 CROSS MONITORING PERFORMANCE 
+				- PP101 CREW TEAM LEADERSHIP
+				
+
+6 At this moment both aircraft were at FL110 in opposite directions with a separation of 4,55 NM.
+E#
+ICAO:
+E --> EXTERNAL --> Other factors  --> other air traffic (SYN: opposite directions) 
+HFACS: 
+				- PE1XX PHYSICAL ENVIRONMENT
+				
+ICAO:
+E --> EXTERNAL --> Other factors  --> other air traffic (SYN: separation) 
+HFACS: 
+				- PE1XX PHYSICAL ENVIRONMENT
+				
+
+9 The time base of Pantelleria tower  was 4 minutes later than time base of Rome Aircraft control center.
+S#
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Computers  --> time base 
+HFACS: 
+				- PE202 INSTRUMENTATION AND SENSORY FEEDBACK SYSTEMS
+				- 206 AUTOMATION
+				
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Computers  --> time base 
+HFACS: 
+				- PE202 INSTRUMENTATION AND SENSORY FEEDBACK SYSTEMS
+				- 206 AUTOMATION
+				

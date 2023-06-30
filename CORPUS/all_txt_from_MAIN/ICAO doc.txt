@@ -1,0 +1,3171 @@
+As evidenced by investigation records dating back to the 1940s, Human Factors are involved
+in the majority of aviation accidents and incidents. Regardless of the actual percentage, there is little
+disagreement among government and industry experts over the importance of Human Factors as a primary
+element in the causes of accidents and incidents. In spite of this knowledge, and the notion that “to err is
+human”, progress has been slow in adopting a uniform approach to the investigation of Human Factors in
+aviation occurrences. When no tangible technical evidence was found to explain the occurrence, investigators
+and their authorities sometimes found it difficult to deal with Human Factors issues. The unfortunate result has
+been described by George B. Parker, Associate Professor of Safety at the University of Southern California,
+as the Law of Exception: If we have ruled out everything except the pilot, the cause must be pilot factor.
+1.2
+Accident investigation reports usually depict clearly what happened and when, but in too many
+instances they stop short of fully explaining how and why the accidents occurred. Attempts to identify, analyse,
+and understand the underlying problems that led to the breakdowns in human performance and thus to the
+accidents are sometimes inconsistent. By stating that a pilot did not follow the rules implies that the rules are
+well-founded, safe, and appropriate. Hence, the investigation reports often limit conclusions to phrases such
+as “pilot error”, “failed to see and avoid”, “improper use of controls”, or “failed to observe and adhere to
+established standard operating procedures (SOPs).” This narrow focus is but one of many obstacles to the
+effective investigation of Human Factors.
+1.3
+
+Below are listed other common obstacles, along with solutions which can eliminate them.
+
+OBSTACLES AND SOLUTIONS
+Obstacle: The need to investigate Human Factors issues has not been readily accepted. One may hear
+comments, such as “Human Factors is an area that is too soft”, “human nature cannot be changed”, or “it is
+too difficult to prove conclusively that these factors contributed to the accident”.
+Solution: More education, describing how experimental research has managed to eliminate many
+speculative elements in the field of Human Factors, with scientifically supported documentation. For
+example, research has shown empirically the advantages of effective cockpit communication, a
+recognition that has translated directly into courses in crew resource management and pilot decisionmaking.
+Obstacle: The reluctance to investigate Human Factors may stem from a lack of understanding of what the
+term “Human Factors” encompasses. Unfortunately, some investigators believe themselves ill-equipped
+because they are not medical doctors or psychologists. The field of Human Factors extends well beyond the
+3
+
+4
+
+ICAO Circular 240-AN/144
+
+physiological and the psychological; ironically, most investigators, unbeknownst to themselves, have a broad
+awareness of the subject which they apply in an informal manner.
+Solution: Better Human Factors training for investigators will develop a more thorough understanding
+of what the investigation of Human Factors entails.
+Obstacle: Investigators may mishandle questions related to the performance of crew members, air traffic
+controllers, maintenance personnel, and others. This can happen when the investigator has not established
+an atmosphere of objectivity and trust, and those whose performance is being questioned feel threatened by
+or antagonistic towards the investigator. In the worst case, crew members or other interested parties may
+withhold valuable information and assistance from the investigation authority.
+Solution: Investigators should ensure that people understand the objective of the process — to
+prevent recurrence — and the method by which the investigator intends to achieve this objective. If
+there is a possibility of misunderstanding, this information should be discussed openly at the beginning
+of the investigation.
+Obstacle: There is often a natural reluctance on the part of witnesses (for the purposes of this digest these
+include peers, supervisors, management and spouses) to speak candidly about the deceased. Also,
+investigators may be somewhat reluctant to ask questions which may be interpreted as unfavourable by a
+relative, friend or colleague.
+Solution: Well planned interviews are required. By comparing the information obtained through these
+interviews to information gathered by other means in the investigation process, a more complete
+explanation can be achieved.
+Obstacle: Balancing an individual’s right to privacy with the need to uncover and report on the factors involved
+in the accident is another difficulty. On the one hand, information from the cockpit voice recorder (CVR), air
+traffic control (ATC) recordings, and witness statements may be essential in determining how and why the
+accident occurred. On the other hand, these same sources often contain sensitive personal information about
+involved individuals who would naturally want such information protected.
+Solution: Accident investigation authorities should provide a degree of protection to such sources (see
+Annex 13, Chapter 5). Depending on an individual State’s laws, this protection may need to be
+legislated. Investigation authorities will have to be discriminating, publishing only that information which
+is essential to the understanding of the accident and which promotes prevention.
+Obstacle: The investigation philosophy adopted by the management of the investigation authorities is very
+important. Investigators will be hampered in their efforts to conduct a full systematic investigation if the
+management for whom they work do not believe in the importance of investigating Human Factors in accidents
+and incidents. Without management support, there is little doubt this field will continue to be neglected.
+Solution: Knowledge of Human Factors and an understanding of how to apply this knowledge in an
+investigation offers the investigation authority a greater opportunity to identify root causes which may
+not have been recognized previously. Furthermore, it offers States’ administrations a constructive
+means for handling controversial human performance issues. Some of the key methods by which
+investigators and their managers can promote the investigation of Human Factors lie in keeping
+abreast of current literature, attending Human Factors courses and seminars, and applying concepts
+such as those outlined in this digest.
+
+ICAO Circular 240-AN/144
+
+5
+
+Obstacle: In many States, the regulatory authority also has the responsibility for investigating accidents and
+incidents. The absence of an independent investigation authority has the potential for creating a conflict of
+interest within the organization. There could be an unwillingness on the part of the regulators to investigate
+those issues that are related to their role as regulators. This situation could also cause the travelling public to
+view the regulator’s investigative findings with scepticism.
+Solution: Some States have created an independent investigative body whose sole mission is to
+determine the causes of accidents and make safety recommendations to prevent their recurrence.
+Such a body is free to make findings and recommendations without encumbrance.
+Obstacle: The rush of media and litigants to find someone to blame to suit their own objectives may result in
+premature conclusions. For example, the pilot is sometimes made the scapegoat to reassure the public that
+an individual has been found responsible.
+Solution: Investigators must be diligent in promoting the philosophy that only after a full, systematic
+investigation has been completed can all the causes be determined.
+Obstacle: The determination of conclusions and causes by the investigation authority can inadvertently
+apportion blame, fault or liability. To the extent that this happens, the potential for preventing future accidents
+and incidents may be diminished. How States publish their findings thus becomes a crucial part of the process
+of preventing accidents.
+Solution: Accident investigation reports which concentrate on identifying underlying problems instead
+of laying blame will contribute far more to the prevention of accidents. However, while every effort
+should be made to avoid assigning fault or liability, the reports must not refrain from reporting
+objectively and fully on the causes merely because fault or liability might be inferred from the report.
+Obstacle: There is a general lack of accepted international guidance material in this field.
+Solution: With the publication of this digest, it is anticipated that the most significant obstacles to the
+investigation of Human Factors will be eliminated. By applying the approach outlined in this digest,
+investigators and their authorities should feel more confident in conducting these investigations.
+1.4
+Despite these obstacles, attitudes are changing. Government and industry experts are emphasizing
+the value of investigating Human Factors in aviation accidents and incidents as part of the over-all aim of
+accident prevention and improved safety. ICAO recognizes this change in emphasis as a positive step taken
+by States to improve investigation procedures, techniques and prevention.
+
+THE NATURE OF ACCIDENTS AND INCIDENTS
+1.5
+The investigation of Human Factors in aircraft accidents and incidents should be an integral
+part of the entire investigation and its resulting report. Humans do not act alone; they are but one element of
+a complex system. Often, the human is the last barrier that stops the sequence of events from causing an
+accident. However, when events combine and interact together to cause a catastrophe, the investigation
+authority must ensure that all elements of the complex system are investigated to understand why the accident
+happened. A systematic search for the “Why” is not intended to pinpoint a single cause, nor is it intended to
+assign blame or liability, nor even to excuse human error. Searching for the “Why” helps identify the underlying
+deficiencies that might cause other incidents or another accident to happen.
+
+6
+
+ICAO Circular 240-AN/144
+
+1.6
+The formal definition of an accident is useful in determining the criteria for reporting the
+occurrence to the investigation authority and in identifying when an investigation should be conducted. The
+extent of an investigation will be governed by the investigation authority’s legislative mandate. The investigation
+authority may not be able to investigate every occurrence in depth.
+
+DEFINITION OF AN ACCIDENT AND INCIDENT
+1.7
+
+ICAO Annex 13, Chapter 1 defines an accident as:
+“an occurrence associated with the operation of an aircraft which takes place between the time
+any person boards the aircraft with the intention of flight until such time as all such persons
+have disembarked, in which a person is fatally or seriously injured … , the aircraft sustains
+damage or structural failure … , or the aircraft is missing or is completely inaccessible”.
+
+An incident (which will be discussed later) is defined as:
+“an occurrence, other than an accident, associated with the operation of an aircraft which affects or
+could affect the safety of operation”.
+
+SYSTEMS APPROACH TO THE INVESTIGATION
+OF HUMAN FACTORS
+1.8
+Having decided to initiate an investigation, the investigating authority must take an
+all-encompassing view of the occurrence if it expects to fulfil the purpose of the investigation. Adopting a
+systems approach to the investigation of accidents and incidents helps the investigator to identify the underlying causes in the complex air transportation system. It allows a better understanding of how various components of the system interacted and integrated to result in an accident, and in so doing points the way to
+remedial action. Many different approaches exist to help investigators identify the components at work and to
+analyse the information gathered. The following paragraphs present one such approach, one proposed by
+James Reason1 on accident causation and depicted graphically in Figures 1-1 and 1-2.
+1.9
+James Reason views the aviation industry as a complex productive system. One of the basic
+elements of the system consists of the decision-makers (upper management, the company’s corporate body
+or the regulatory body), who are responsible for setting goals and for managing available resources to achieve
+and balance two distinct goals: the goal of safety, and the goal of on-time and cost-effective transportation of
+passengers and cargo. A second key element is line management — those who implement the decisions
+made by upper management. For upper-management decisions and line management actions to result in
+effective and productive activities by the workforce involved, certain preconditions have to exist. For example,
+equipment must be available and reliable, the workforce has to be skilled, knowledgeable and motivated, and
+environmental conditions have to be safe. The final element — defences or safeguards — is usually in place
+to prevent foreseeable injury, damage or costly interruptions of service.
+
+1.
+
+James Reason, “Human Error”, Cambridge University Press, New York, 1990, p. 302. This summary of James Reason’s approach
+and concepts is adapted from the original book, as well as from Captain Daniel Maurino’s review of this approach. Captain Maurino’s
+paper, “Management and Flight Safety”, was presented at the ICAO Regional Flight Safety and Human Factors Seminar, in Douala,
+Cameroon in May 1991.
+DEFENCES
+Safeguards against
+foreseeable
+hazards
+
+PRODUCTIVE
+ACTIVITIES
+Integration of human
+and mechanical
+elements
+
+PRODUCTS
+
+PRECONDITIONS
+Reliable equipment,
+a skilled and
+motivated workforce,
+etc.
+LINE MANAGEMENT
+FEEDBACK
+LOOPS
+
+Operations
+Maintenance
+Training
+etc.
+DECISION-MAKERS
+Plant and
+corporate
+management
+
+INPUTS
+
+Figure 1-1. The basic components of any productive system
+(Source: James Reason, Human Error, 1990. United Kingdom: Cambridge University Press)
+
+1.10
+Illustrated in Figure 1-2 is Reason’s model of how humans contribute to the breakdown of these
+complex, interactive and well-guarded systems to produce an accident. In the aviation context, “well-guarded”
+refers to the strict rules, high standards and sophisticated monitoring equipment in place. Because of
+technological progress and excellent defences, accidents seldom originate exclusively from the errors of
+operational personnel (front-line operators) or as a result of major equipment failures. Instead, they result from
+interactions of a series of failures or flaws already present in the system. Many of these failures are not
+immediately visible, and they have delayed consequences.
+1.11
+Failures can be of two types, depending on the immediacy of their consequences. An active
+failure is an error or a violation which has an immediate adverse effect. Such errors are usually made by the
+front-line operator. A pilot raising the landing gear lever instead of the flap lever exemplifies this failure type.
+A latent failure is a result of a decision or an action made well before an accident, the consequences of which
+may lie dormant for a long time. Such failures usually originate at the decision-maker, regulator or line
+management level, that is, with people far removed in time and space from the event. A decision to merge two
+companies without providing training to standardize operating procedures illustrates the latent failure. These
+failures can also be introduced at any level of the system by the human condition — for example, through poor
+motivation or fatigue.
+1.12
+Latent failures, which originate from questionable decisions or incorrect actions, although not
+harmful if they occur in isolation, can interact to create “a window of opportunity” for a pilot, air traffic controller,
+or mechanic to commit an active failure which breaches all the defences of the system and results in an
+accident. The front-line operators are the inheritors of a system’s defects. They are the ones dealing with a
+situation in which technical problems, adverse conditions or their own actions will reveal the latent failures
+present in a system. In a well-guarded system, latent and active failures will interact, but they will not often
+breach the defences. When the defences work, the result is an incident; when they do not, it is an accident.
+
+ACCIDENT SCENARIO
+1.13
+Let us apply the main principles of Reason’s model to a complex accident scenario to provide
+a better understanding of how humans contribute to a breakdown of the aviation system. The following fictitious
+scenario, based on real-life events, fully illustrates all of the system components:
+
+In the late hours of a summer Friday evening, while landing on a runway heavily contaminated with
+water, a twin-engine jet transport aircraft with four crew members and 65 passengers on board overran
+the westerly end of the runway at Anytown City airport. The aircraft came to rest in the mud a short
+distance beyond the end of the runway. There were no injuries to crew or passengers, and there was
+no apparent damage to the aircraft as a consequence of the overrun. However, a fire started and
+subsequently destroyed the aircraft.
+
+Anytown City is a popular summer resort. The predominant weather for a typical summer day is low
+stratus and fog in the early morning, which gradually develops into convective cloud as the air warms.
+Severe thunderstorms are common in the early afternoon and persist until the late evening hours. The
+whole region where Anytown City is situated is “thunderstorm country” during summer.
+
+The runway at Anytown is 4 520 feet long. It is a relatively wide runway with a steep downward slope
+to the west. It is served by a low-power, short-range, non-directional beacon (NDB), unreliable in
+convective weather. Runway lighting is low-intensity, and there are no approach lights or visual
+approach aids. It is a classic “black-hole” approach during night landings.
+
+Defences
+Inadequate
+Interactions
+with local
+events
+Productive
+Activities
+Unsafe acts
+
+Limited window of
+accident opportunity
+Preconditions
+Psychological
+precursors of
+unsafe acts
+
+Line Management
+Deficiencies
+
+Decisionmakers
+Fallible
+decisions
+
+Active and latent failures
+Active failures
+Latent failures
+Latent failures
+Latent failures
+
+,
+showing the various human contributions to the breakdown of a complex system
+
+
+
+The flight had originated at the airline’s main base, 400 km away. This was the second-to-last flight for
+the flight crew that day. They had reported for duty at 1130 hours and were due to be relieved at 2200
+hours. The crew had been flying a different schedule for the last three weeks. This was the beginning
+of a new four-day schedule on another route. It had been a typical summer afternoon, with
+thunderstorms throughout the entire region. Anytown City had been affected by thunderstorms during
+the early afternoon. No forecast was available, and the captain had elected to delay the departure.
+
+The flight schedule was very tight, and the captain’s decision to delay created a number of additional
+delays for subsequent flights. The dispatcher working the flight did not bring to the flight crew’s
+attention the need to consider a contaminated runway operation at Anytown, and did not review the
+landing performance limitations with them. After a long delay, the captain decided to add contingency
+fuel and depart.
+
+Visual conditions were present at Anytown, although there were thunderstorms in the vicinity of the
+airport, as well as a persistent drizzle. With no other reported traffic, they were cleared for a night visual
+approach. After touchdown, the aircraft hydroplaned and overran the end of the runway slightly above
+taxiing speed.
+
+The captain was a very experienced pilot. He had been with the airline for many years, accumulating
+several thousand hours of flying time as a first officer in two other types of large jet aircraft. However,
+he had limited experience with the aircraft type he was flying the night of the accident. He had not had
+the occasion to fly into Anytown before because the larger aircraft types he had been flying previously
+did not operate into Anytown. This was his first month as a captain. He was a well-balanced individual,
+with no personal or professional behavioural extremes.
+
+At the time of the accident the first officer was very inexperienced. He had recently been hired by the
+airline and had only been flying the line for about a month. He had flown into Anytown on two other
+occasions with another captain, but only during the day. His training records indicated standard
+performance during induction into the airline’s operations.
+Initially, the investigation would focus on determining what actually happened at Anytown. It
+was learned that it had rained heavily at the airport and that there was standing water on the runway. Readout
+of the flight recorders disclosed that the captain flew the approach with excess airspeed which resulted in the
+airplane touching down smoothly, but well beyond the touchdown zone, and then hydroplaning off the end. It
+was also determined that the captain neglected to consult the performance charts in the aircraft flight manual
+for the correct landing distance on a wet runway. Also, the first officer did not make the required callouts during
+the approach.
+These unsafe flight crew actions could in and of themselves explain the overrun and focus the
+investigation on a conclusion of “crew error” as a cause for the accident. However, if one were to investigate
+further into the company’s operational procedures and practices and look upstream for other factors influencing
+the crew’s performance, one could identify additional active and latent failures which were present during the
+flight. So the investigation should not stop at the point where the crew made errors.
+
+If the investigation were to determine whether any other unsafe acts occurred in the operation,
+it would discover that not only did the dispatcher fail to brief the captain on potential problems at the airport (as
+required by company procedure), but that the company’s agent at Anytown had not reported to the dispatcher
+at headquarters that heavy rain had fallen. Inspection of the runway revealed poor construction, paving and
+lack of adequate drainage. It was also discovered that maintenance and inspection of the NDB was not in
+
+accordance with prescribed procedures. Over the past month, other flight crews had reported on several
+occasions that the ground aid had given erratic indications during instrument approaches; no attempt had been
+made to rectify the problem.
+
+With these facts in mind and by referring to the Reason model, it can be seen that the actions
+of other front-line operators were also unsafe and had an influence upon the performance of the flight crew and
+the outcome of the flight. These activities can be classified as active failures and are also linked to linemanagement and decision-makers’ performance.
+
+Next, the investigation should determine if there were any adverse pre-conditions under which
+the flight crew had to operate. These can be listed as follows: 1) a night non-precision instrument approach to
+an unfamiliar airport; 2) a poorly lit, short, wide and steeply sloping runway; 3) poor runway pavement and
+drainage; 4) a lack of reliable information on the performance of the NDB; 5) a lack of reliable information about
+the wind conditions; 6) a flight schedule which allowed only a 15-minute turnaround at Anytown; 7) an arrival
+delayed by two hours, compromising crew duty-time requirements; 8) an aircraft not equipped with thrust
+reversers; 9) an inadequately trained flight crew, inexperienced in the type of aircraft and at the airport; and
+10) inadequate crash, fire, and rescue services.
+1.19
+The Reason model classifies these pre-conditions as latent failures, many of which lay dormant
+for some time before the accident and which were the consequences of line management and decision-maker
+actions or inactions. For example, pairing two pilots who were inexperienced in the type of aircraft and allowing
+the captain to operate into an unfamiliar airport with a non-precision approach procedure was the result of
+unsafe decisions made by line management. Also, the failure to follow up on reported discrepancies with the
+NDB and the failure to conduct adequate inspections of the airport indicate either a lack of awareness of the
+safety implications or a tolerance of hazards by the decision-maker’s line management and the regulatory
+authority. The investigation found that pilots were not briefed on the use of performance charts for
+contaminated runways, nor did they practice hydroplaning avoidance techniques. These discrepancies can be
+attributed to both line and upper management’s failure to provide adequate training.
+1.20
+At the roots of this occurrence were other “fallible decisions” made by both upper management
+levels within the company and in the regulatory authorities. Management had decided to operate a scheduled
+service at an airport with known deficiencies in facilities (poor lighting and approach aids, inadequate weather
+services). More importantly, they chose to operate without the required level of crash, fire and rescue services
+available at the airport. In addition, management selected this type of airplane for this route out of marketing
+and cost considerations, despite its unsuitability for all-weather operations at Anytown. Compounding the
+problem was the decision by the regulatory authority to certify the airport for scheduled air transport operations
+in spite of its significant safety deficiencies.
+1.21
+In Figure 1-3, the active and latent failures identified in this accident are depicted using
+Reason’s model. The model portrays the interactive nature of the failures and how they defeated the defences
+that one might expect to find within this organizational and operational environment. It also depicts the critical
+importance of identifying latent failures as they relate to the prevention of future accidents.
+1.22
+In summary, this approach to the investigation of Human Factors encourages the investigator
+to go beyond the unsafe actions of front line operators to look for hazards that were already present in the
+system and which could contribute to future occurrences. This approach has direct implications for the
+prevention activities of operators and regulators, who must identify and eliminate or control latent failures.
+
+
+
+Interactions
+with local
+events
+
+poor crew co-ordination
+ineffective dispatch briefing
+poor crash, fire, rescue facilities
+
+Productive
+Activities
+Unsafe act
+
+inappropriate landing technique
+failure to consult performance charts
+inadequate dispatch briefing
+Preconditions
+Psychological
+precursors of
+unsafe acts
+
+limited approach and airport facilities
+night approach
+inadequate route/airport qualification
+no weather forecast/poor weather report
+tight schedule
+
+deficient training programme
+improper crew pairing
+poor co-ordination between dispatch
+and flight operations
+
+company selection o faircraft type
+regulatory authority airport certification
+
+Limited window of
+accident opportunity
+
+Line Management
+Deficiencies
+
+Decisionmakers
+Fallible
+decisions
+
+Active and latent failures
+Active failures
+Latent failures
+
+
+1.23
+Most accidents, such as the Anytown one, originate in actions committed by reasonable,
+rational individuals who were acting to achieve an assigned task in what they perceived to be a responsible
+and professional manner.2 These and other individuals had probably committed these same unsafe acts before
+without negative consequences because the conditions existing at the time did not favour the interaction of
+flawed decisions or deficiencies present in the system. Under different circumstances, the consequences of
+the Anytown situation might have been an incident rather than an accident.
+
+Many incidents occur every day which may or may not require reporting by the investigation
+authority; some come very close to being accidents. Because there is no injury or little damage, these incidents
+might not be investigated. The need for an investigation by either the investigation authority or the operator
+must be emphasized, however, because an incident investigation can often produce better accident prevention
+results than can an accident investigation.
+1.25
+In an incident, injury, damage and liability are generally reduced, and there is less associated
+publicity. As a result, more information is available and the atmosphere is less adversarial. Investigators and
+Human Factors specialists have a better opportunity to identify the underlying human performance issues
+involved. There is thus more likelihood of determining why the incidents occurred and, equally, how the
+defences in place prevented them from becoming accidents.
+1.26
+Knowledge of incidents, whether they are investigated in depth or not, provides significant
+insight into accident prevention. This realization has led to the establishment of several confidential safety
+deficiency reporting systems, and the evidence emerging from these constitutes a rich source of data on
+Human Factors in aviation.
+
+
+An accident or incident is not solely the result of an action taken by one individual. The
+potential for an accident is created when human actions and latent failures present within an organization or
+the air transport system interact in a manner which breaches all of the defences.
+1.28
+The purpose of investigating Human Factors is to identify why actions lead to the breakdown
+in defences and result in accidents. This requires determining the related latent failures present at all levels
+of the organization (including the upper levels of management) and of the aviation system of which it is a part.
+It goes without saying that it is equally important to determine how these unsafe actions could have been
+prevented. We cannot prevent humans from making errors, but we can reduce the frequency of these errors
+and limit their consequences. This is the essence of prevention activities and highlights the importance of
+investigation and reporting of incidents.
+
+The investigation of Human Factors is an integral part of the investigation of an accident or
+incident. The collection and analysis of Human Factors information should be just as methodical and complete
+as the collection and analysis of information pertaining to the aircraft, its systems, or any of the other traditional
+areas of investigation. The size and scope of the investigation of Human Factors will depend on the circumstances of the occurrence; it can involve one investigator who may also be responsible for all other aspects
+of the investigation, or one or more investigators dedicated solely to the investigation of Human Factors.
+Whether the investigation is large or small, many of the guidelines in this digest apply to both situations. The
+success of the investigation into Human Factors will depend on how well it is integrated and co-ordinated with
+the other elements of the investigation, and will require effective and efficient management of available
+resources through the application of basic management principles. The investigation itself should be viewed
+as a process requiring trained and disciplined investigators who apply skills in a systematic way.
+2.2
+This chapter provides guidelines to be used to integrate the investigation of Human Factors
+with the over-all investigation. It will look at who should conduct the investigation — a single investigator or a
+team — and outline what information should be collected, where to find it and how to analyse it.
+
+Most accidents and incidents are investigated by investigators who are trained as generalists.
+For years, these generalists have been investigating highly technical and complex aspects of occurrences,
+including areas of Human Factors. Where necessary, specialists are consulted to provide specific assistance
+and guidance, but by and large the data gathering and analysis are conducted by the generalist investigators.
+ICAO sees no reason why this principle should not continue to apply to the investigation of Human Factors in
+aviation occurrences.
+2.4
+In view of the growing complexities of aviation, investigators must be knowledgeable of and
+skilled in the application of Human Factors principles and sound data-gathering and analysis techniques. They
+need not be physicians, psychologists, sociologists or ergonomists. The essential qualifications of a good
+Human Factors investigator are those of any good investigator. As outlined in ICAO’s Manual of Aircraft
+Accident Investigation (Doc 6920), investigators must possess a sound working knowledge of aviation and of
+the factors which affect operations as a whole. This knowledge must be complemented by technical skill, an
+inquisitive nature, dedication, diligence, patience, humility, integrity and logic. The measure of the good Human
+Factors investigator is not his or her professional qualifications in behavioural sciences, but rather the ability
+to determine, with the help of specialists if necessary, what information is relevant, to ask the right questions,
+to listen to the answers and to analyse the information gathered in a logical and practical way.
+2.5
+In order to adequately prepare generalist investigators to investigate Human Factors, it is
+essential that they receive appropriate training. Such training should include guidance on the interdisciplinary
+14
+
+nature of this type of investigation, fundamental areas of examination, data that should be collected, data
+sources, data collection methods including interview techniques, and analysis techniques. Training should also
+include general guidance on the type of specialists who are available to assist, where they can be found and
+when it would be appropriate to employ them. Given this level of training, the experienced accident investigator
+should be able to conduct all but the most specialized aspects of the Human Factors investigation.
+THE SINGLE INVESTIGATOR
+2.6
+The single investigator assigned to investigate an accident or incident has the challenge of
+setting priorities and managing available time to cover effectively all areas of the investigation, including
+Human Factors.
+2.7
+As in any investigation, it is important for the investigator to take immediate steps to preserve
+evidence at the site and elsewhere. The single investigator will probably rely heavily on other authorities such
+as the police or airport officials. Good preplanning of the response is needed; the Manual of Aircraft Accident
+Investigation provides detailed guidance in this area. Once these initial steps have been taken, the investigator
+can begin to organize the investigation with the reasonable expectation that information which could be significant to its outcome, including areas of Human Factors, will be available for examination and analysis. At the
+outset, high priority must be assigned to the collection of information or evidence likely to disappear or to be
+forgotten, disturbed or unavailable soon after the accident.
+2.8
+The single investigator will also need to plan and prioritize the remaining work. Periodic
+assessments of progress are particularly important for the single investigator if precious time and resources
+are to be used effectively.
+THE HUMAN FACTORS INVESTIGATOR
+2.9
+When one investigator on a team is assigned to conduct the Human Factors portion of an
+investigation, the organizational task is less complex but the same basic principles apply. There must be close
+co-operation and interaction with all other investigation team members, as much of the information and data
+relevant to the investigation of the Human Factors aspects will actually be collected by investigators working
+in other areas.
+THE HUMAN FACTORS GROUP
+2.10
+Depending on the circumstances of the accident, it may be desirable to establish a Human
+Factors Group under the direction of the Investigator-in-charge. Normally, such groups are established as a
+part of a large investigative team effort in response to a complex major aircraft accident. Although any
+investigator on the team may have some role in the investigation of Human Factors, the Human Factors group
+is responsible for co-ordinating the investigation of the human performance elements, ensuring that appropriate
+and sufficient data are collected, and synthesizing the results in a meaningful way.
+2.11
+The composition of the Human Factors Group will be governed by the nature of the occurrence.
+Because individuals whose performances are being examined are usually pilots, air traffic controllers,
+maintenance engineers, dispatchers, and operations managers, similarly qualified individuals are well suited
+to participate in the examination. As the investigation progresses, it may be advisable to alter the composition
+of the Human Factors Group, or to combine groups to provide sufficient expertise in relevant areas under
+examination.
+
+16
+
+ICAO Circular 240-AN/144
+
+2.12
+Information collected by other members of the investigation team (such as operations, air traffic
+control, structures, systems, power plants, flight recorders, aircraft performance, etc.) is also required to
+reconstruct the sequence of events before actions and the performance of the front-line operators involved can
+be examined thoroughly. The Human Factors group must be able to rely on the assistance and expertise of
+these other groups.
+
+WHAT INFORMATION SHOULD BE COLLECTED?
+2.13
+In general, the data that must be collected fall into two broad areas: information which will
+enable investigators to construct a detailed chronology of each significant event known to have occurred prior
+to and, if appropriate, following the occurrence (this chronology must place particular emphasis on the
+behavioural events, and what effect they may have had on the accident events sequence); and information
+which will permit investigators to make reasonable inferences about factors which may have influenced or
+motivated a particular accident-producing behaviour. In terms of the Reason model, this is information which
+describes the “pre-conditions” under which front-line operators were working.
+2.14
+In addition, other information may be needed for statistical or other special purposes.
+Investigators must follow national guidelines as well as those of ICAO (see ICAO’s Accident/Incident Reporting
+Manual, Doc 9156) to meet such requirements.
+2.15
+Investigators must collect information which encompasses the decisions, actions and
+behaviour of all the people concerned with the occurrence — not only front-line operators. Investigators must
+also identify the conditions under which these decisions, actions and behaviour were carried out. These
+conditions would include the organizational structure and the policies, procedures and practices under which
+activities were performed. It is through such an approach that a full understanding can be gained of how the
+“window of opportunity” for an accident or incident was created.
+
+
+In addition to Reason’s model, the conceptual SHEL model will facilitate the data collection
+task by providing a systematic approach to identifying problems (see ICAO Human Factors Digest No. 1 for
+a complete description of the SHEL model). First developed by Professor Edwards in 1972, and later modified
+by Hawkins (see Figure 2-1), it is an expanded version of the man-machine-environment model in ICAO’s
+Accident Prevention Manual (Doc 9422). The SHEL model addresses the importance of human interaction and
+the use of written information and symbology, and helps the investigator apply the Reason model on accident
+causation, which treats the accident as an outcome of a series of interactive and enabling events.
+2.17
+Each component of the SHEL model (software, hardware, environment, liveware) represents
+one of the building blocks of Human Factors studies. The liveware, or the human element, is the centrepiece
+of the model, representing the most critical and flexible component. It does have limitations, however, most
+of which are predictable in general terms.
+2.18
+The central human component does not act on its own; it interacts directly with each of the
+others. The edges of this human block are not simple and straight, so other blocks must be carefully matched
+to them if stress and eventual breakdown (an accident) are to be avoided. The investigation of Human Factors
+must identify where mismatches between components existed and contributed to the occurrence, and so the
+data collected during the investigation should permit a thorough examination and analysis of each of the SHEL
+components.
+
+
+In this model the match or
+mismatch of the blocks (interface)
+is just as important as the
+characteristics of the blocks
+themselves. A mismatch can be
+a source of human error.
+
+The following description of the components and interfaces will help investigators collect data
+to achieve a thorough Human Factors investigation. Where appropriate, data from the Anytown scenario are
+included.
+
+Liveware — the individual
+The liveware component — the individual — is the centrepiece of the SHEL model. The data
+that should be collected to address this central component can be broken down into four categories: physical,
+physiological, psychological and psychosocial.
+Physical factors deal with the physical capabilities and limitations of the individual. Included are the
+individual’s anthropometric (basic physical) attributes, physical condition, physical strength, motor skills and
+visual, auditory and other senses.
+Task — Determine:
+
+was the individual physically capable of performing the required task?
+
+
+what physical impediments or limitations to successful performance were present? and
+
+how did these physical or sensory limitations create difficulties or illusions that affected the
+task?
+
+Anytown: The investigation did not disclose any evidence of physical factors that would have played
+a role in degrading the performance of the captain, first officer, or other operator.
+
+Physiological factors deal with the individual as a complex organism encompassing a large array of systems.
+Included are the individual’s general health, as well as nutrition, disease, tobacco, alcohol or drug use, stress
+and fatigue levels, and general lifestyle considerations.
+Task — Determine:
+
+was the individual physiologically fit to perform the required task?
+
+how did physiological fitness influence the individual’s performance and judgement?
+
+how did the individual’s ability to handle stress, fatigue or disease affect actions,
+behaviours and judgement? and
+
+was the individual affected by any type of physiological deprivation?
+Anytown: Other than the suggestion that fatigue and stress would be factors to consider, the
+investigation did not reveal any evidence of other physiological factors that might have adversely
+affected the crew’s or other operators’ performance.
+Psychological factors determine what individuals bring with them to work situations as a result of their
+acquired knowledge and experience and their mental capabilities. Included are training, knowledge, experience
+and planning; perceptions, information processing, attention span and workload; personality, mental and
+emotional state, attitudes and mood.
+Task — Regarding training, knowledge, experience and planning, determine:
+was the individual’s training, knowledge and experience sufficient, relevant and applicable
+to the situation?
+how did the nature and recency of the experience, training, or knowledge influence the
+individual’s self-confidence, ability to complete the actions or perceived level of workload?
+
+Task — Regarding perceptions, information processing, attention span and workload, determine:
+was there an inaccurate perception or mental representation of the task to be performed?
+did the individual suffer from any misperceptions, delayed perceptions, or illusions caused
+either by the visual or vestibular system or by circumstances surrounding the flight?
+did the level of attention required or the amount of information to be processed exceed the
+individual’s own limitations?
+
+did the individual’s ability to handle the events cause biases in judgement and change the
+perceived workload level?
+
+Task — Regarding personality, mental and emotional state, attitudes and mood, determine:
+
+was the individual psychologically fit for the task?
+
+what do the facts indicate about the individual’s attitudes towards work, others and self?
+
+how did these attitudes influence motivation, quality of work and judgement?
+how did personality and mental state influence the individual’s approach to the situation?
+
+how did the individual’s ability to cope with stress and to respond to emergencies influence
+the event sequence?
+
+Anytown: The evidence suggests that several areas should be examined more closely. These areas
+are training and knowledge, perceptions, information processing, workload and perhaps attitude.
+Although it was reported initially that the captain was a well-balanced individual with no personal or
+professional behavioural extremes, it would be useful to gather more information concerning his ability
+to handle the captain’s higher level of responsibility. The fact that he had not yet flown with other first
+officers would, however, make an assessment of his performance as a captain difficult. Examination
+of some of these psychological factors would also apply to the first officer, the dispatcher and the
+Anytown agent.
+Psychosocial factors deal with the pressures brought to bear on an individual by the social system (non-work
+environment). Included are events and stresses (e.g. a death in the family or financial problems) as well as
+relationships with others (family, friends and peers).
+
+did psychosocial factors motivate or influence the individual’s approach to a situation or the
+ability to handle stress or unforseen events? did they contribute to the degree of fatigue
+experienced?
+
+Anytown: The investigation did not reveal any evidence of psychosocial factors having had a negative
+effect on the flight crew’s actions. However, the Anytown company agent had been separated from his
+family for an extended period, a situation which had lowered his motivation.
+
+Liveware-liveware interface
+
+The liveware-liveware interface is the relationship between the individual and any other
+persons in the workplace. Staff-management relationships also fall within the scope of this interface, as
+corporate climate and company operating pressures can significantly affect human performance. Data requirements span such subjects as human interactions, communication (verbal and non-verbal) and visual signals.
+
+did the interaction or communications with other people in the work environment influence
+the performance of individuals, their attitudes, their level of stress, their perceived task
+demands and workload levels?
+
+did verbal and non-verbal communication, or the lack thereof, influence the sequence of
+actions in an inappropriate or irreversible manner? did visual signals replace, support or contradict oral information?
+how would you evaluate the crew’s interactions and compatibility in terms of personality,
+experience level and working habits?
+how did the crew work together; how did they make use of their resources?
+did management policies regarding personnel issues affect working conditions,
+experience and knowledge level of employees?
+
+were policies and standards existing, available, current and adequately implemented,
+accepted, monitored or supervised?
+
+how did the supervisor-employee ratio influence the operation?
+
+what was the union’s influence on policies, workers and management?
+
+what kind of operational environment did management promote, and how did it affect
+employees’ decision-making and choice of actions?
+
+There is ample evidence that the liveware-liveware interfaces should be explored, starting
+with those between the flight crew, the captain and the dispatcher, and between the dispatcher and
+the company agent in Anytown. Additional interrelationships to be examined include personnel in the
+training department, the company’s check pilots and line management in the training and operations
+departments.
+
+Liveware-hardware interface
+The liveware-hardware interface represents the relationship between the human and the
+machine. Data requirements span such subjects as cockpit and workstation configuration, display and control
+design, and seat design and configuration.
+Task — Determine:
+how did interactions between the individual and the equipment influence informationprocessing capabilities?
+
+how did design or layout influence response time, action sequencing, habit patterns,
+workload or orientation?
+
+Anytown: There are some physical features of the aircraft which could have been factors in the
+accident. Activation of its alternate braking system requires abnormal body movements. Deployment
+of the ground spoilers requires using handles on the thrust levers which are similar to thrust reverser
+handles. In addition, it is known that, because of its lower-pressure tires, this aircraft is more prone to
+hydroplaning than are the other types on which the captain was more experienced.)
+
+Liveware-software interface
+The liveware-software interface reflects the relationship between the individual and supporting
+systems found in the workplace. Data requirements span such subjects as regulations, manuals, checklists,
+publications, standard operating procedures and computer software design.
+Task — Determine:
+
+were manuals, checklists, maps, or any written documents readily available? adequate?
+used?
+
+were the format, content and vocabulary used consistent from one document to another?
+were they easy to understand and use, logical and appropriate?
+
+
+how did written or computerized information induce errors, influence response time or
+generate confusion?
+
+
+how did computer displays and keyboard compatibility cause confusion, influence
+response time or hide blatant errors?
+
+how did automation affect the individual’s actions and workload, work conditions, attitudes
+towards work and mental representation of the task?
+
+Anytown: The evidence points to several potential problems regarding the adequacy of training
+material, quick-reference data pertaining to the landing performance of the aircraft on contaminated
+runways, training information, manuals and checklists for dispatchers and agents, etc.
+
+Liveware-environment interface
+2.24
+The liveware-environment interface is the relationship between the individual and the internal
+and external environments. The internal environment is that of the immediate work area, including temperature,
+ambient light, noise and air quality. The external environment includes both the physical environment outside
+the immediate work area as well as the broad political and economic constraints under which the aviation
+system operates. Data requirements include weather, terrain and physical facilities, infrastructure and
+economic situation.
+Task — Determine:
+were there any environmental factors which might have led the individual to take shortcuts
+or make biased decisions or which might have created illusions by affecting vestibular,
+visual or auditory perceptions?
+were there any indications that the weather or dispatch, hangar, gate, or aerodrome
+infrastructure caused delays leading to shortcuts, reduced safety margins or limitations on
+the individual’s choice of actions?
+
+were there economic or regulatory pressures which biased decision-making?
+
+There is evidence that the external environment in which the flight crew were operating could
+have contributed to visual illusions during the instrument approach. Weather conditions played a role
+in the captain’s decision to delay the flight and degraded the stopping performance of the airplane.
+Also, the runway layout and condition was conducive to standing water. There were problems with
+dispatch and there was probably induced pressure on the captain to land at the airport on the first
+approach because he had delayed the flight schedule substantially. This latter factor should also be
+taken into account under physiological factors (potential stress).
+
+HOW MUCH INFORMATION IS ENOUGH?
+In conducting the investigation of Human Factors, the question “how much data is enough?”
+frequently arises. How many peers, relatives and supervisors of the pilot should be interviewed? How far back
+in time should personal activities be investigated? To what extent should interpersonal relationships (including
+spousal) be examined? At what point does past behaviour cease to influence current behaviour? How high in
+management should the investigation progress?
+
+
+In dealing with Human Factors issues, the dividing line between relevancy and irrelevancy is
+often blurred. Data that initially may seem to be unrelated to the occurrence, could prove to be extremely
+relevant after relationships between particular events or elements have been established. Clearly, good judgement is necessary in order to determine the relevancy of information obtained during the investigation.
+
+It has often been said that accident investigators only gather facts during the course of their
+investigation and do not analyse until all the facts, conditions and circumstances of the accident have been
+obtained. While this may appear to be an objective approach to an investigation, it is not realistic. “Actually,
+nothing is more detrimental to the field phase of an investigation than the pretence that all pertinent facts can
+be discovered without a selective, analytical process.” 1 Although a standardized methodology has not been
+adopted, investigators have recognized the necessity for some form of ongoing reasoning process.
+G.M. Bruggink describes the analytical reasoning process as theorizing — “to arrive by reasoning at possible explanations of known or suspected accident facts.” He states that the reasoning process forms
+the basis for the development and integration of promising avenues of investigation, and suggests that the level
+of confidence placed on these explanations will depend on the weight of the available evidence.2
+
+Clearly, there is a limit to how far the investigation of Human Factors can or should go. Pursuit
+of these aspects of the investigation in the interests of academic research is not the purpose of the investigation and may be counterproductive. Investigators should also remember that it is not necessary for the facts,
+analysis and conclusions of investigators to stand the test of a court of law, for this is the purpose of judicial
+inquiry and not accident prevention. The available investigative resources must also be considered when
+determining the depth and detail of information to be collected. Resource limitations may mean that investigative efforts may concentrate on only the principal individuals, and that fewer data may be collected on the
+more peripheral individuals involved in an occurrence.
+2.30
+Finally, in determining the depth and detail of information to collect, the purpose of investigating
+Human Factors must not be forgotten. The task is to explain how the causal event sequence was initiated and
+why it was not interrupted before the mishap — WHY, not who was to blame. If the data does not help to
+explain these questions, then it is not relevant.
+
+USE OF CHECKLISTS
+
+Checklists are not strict protocols for the rigid step-by-step conduct of an investigation of
+Human Factors, but are instead useful aids in organising and conducting the investigation of Human Factors.
+They can help verify the thoroughness of the investigation of the relevant Human Factors issues, and assist
+the investigator to organise and prioritise the gathering of evidence. However, since most occurrences are by
+nature unique and diverse, investigators must be flexible in their use of checklists.
+2.32
+Numerous checklists have been prepared by different investigation organisations. Three
+examples are shown in Appendix 1: the first example was designed to assist investigators in focusing investigation and analysis on the most relevant areas; the second example provides a more detailed breakdown of
+information to be collected, based on the SHEL model; the third example was designed to assist investigators
+in developing an understanding of the personnel selection, training and experience issues relevant to the
+occurrence under investigation.
+Information relevant to an aviation occurrence can be acquired from a variety of sources.
+Primary sources relating specifically to Human Factors include hardware evidence, paper documentation, audio
+and flight recorder tapes and interviews, direct observation of aviation personnel activities and simulations.
+Secondary sources include aviation occurrence data bases, reference literature and Human Factors
+professionals and specialists.
+
+Hardware evidence is most often associated with the aircraft but may also involve other work
+stations and equipment used by aviation personnel (eg. air traffic controllers, aircraft maintenance and
+servicing personnel). Specific sources include aircraft wreckage, similarly configured aircraft, manufacturer’s
+data, company records and logs, maintenance and servicing equipment, air traffic control facilities and
+equipment, etc.
+2.35
+Paper documentation spans the complete spectrum of SHEL interfaces. Specific sources
+include: personal records and logbooks; certificates and licenses; company personnel and training records;
+aircraft flight manuals; company manuals and standard operating procedures; training manuals and syllabi;
+company training and operational schedules; regulatory authority records; weather forecasts, records and
+briefing material; flight planning documents; medical records; medical and post-mortem examinations (see the
+ICAO Manual of Civil Aviation Medicine, Doc 8984).
+2.36
+Flight data recordings and ATC radar tapes are invaluable sources of information for
+determining the sequence of events and examining the liveware-liveware and liveware-hardware interfaces.
+Within airlines using flight recorder monitoring programmes, there can be a wealth of information about crews’
+normal operating procedures. In addition to traditional flight data recordings, new-generation aircraft have
+maintenance recorders and some electronic components with non-volatile memories that are also potential
+sources of pertinent information. Audio (ATC and CVR) recordings are invaluable sources of information about
+the liveware-liveware and liveware-hardware interfaces. In addition to preserving personnel communications,
+audio recordings can also provide evidence on the state of mind of individuals, and possible stress or fatigue.
+It is essential, therefore, that persons familiar with the crew listen to the recordings to confirm the identity of the
+speaker (if hot microphones are not used) and to indicate any anomalies in speech pattern or style.
+2.37
+Interviews conducted with individuals both directly and indirectly involved in the occurrence
+are also important. Examples of individuals from whom interviews may be required are:
+
+survivors (flight and cabin crew or passengers), next of kin, neighbours, friends, colleagues,
+air traffic controllers, eyewitnesses
+
+ground handlers, dispatchers, weather briefers, aircraft maintenance engineers, baggage
+handlers, de-icing personnel
+
+company owner, chief of flight operations, chief pilot, chief instructor, check-pilot, supervisor,
+former employers, training captains
+
+chief of maintenance, maintenance engineers, technical specialists, regulatory authorities
+
+family or personal physician, psychologist, aeromedical examiner.
+
+Knowledge gleaned from such interviews can be used to confirm, clarify or supplement data from other
+sources. In the absence of measurable data, interviews become the single source of information, and
+investigators therefore need to be skilled in interviewing techniques. Direct observation of actions performed by aviation personnel in the real environment can
+reveal important information about Human Factors. Observations can be made of flight operations activities,
+flight training activities, maintenance activities and air traffic control activities.
+2.39
+Simulations permit reconstruction of the occurrence and can facilitate a better understanding
+of the sequence of events which led up to it, and of the context within which personnel perceived the events.
+Computer simulations can be used to reconstruct events by using data from flight recorders, air traffic control
+tapes and other physical evidence. Often a session in an aircraft flight simulator or reconstruction of a flight in
+a similar aircraft can offer valuable insights.
+
+Not all Human Factors factual information is gathered in the field. After the field phase of the
+investigation, additional information about Human Factors may be collected, facilitating analysis of the factual
+information collected in the field. These empirical data come from several sources.
+
+Basic psychological and sociological references can be good sources of information about
+general human performance, but they seldom address human behaviour in conditions comparable to the
+aviation operational environment. In recent years, professionals in the Human Factors field have provided
+some valuable material addressing aviation operational issues, and Appendix 5 to this digest lists a number
+of relevant reference documents. Some aviation research agencies will, on request, provide literature review
+services on selected topics.
+
+At any time during an investigation, investigators must be willing to consult professionals
+outside their area of expertise. These professionals include, but are not restricted to:
+
+medical officers — to analyse the impact of any medical condition found in the flight crew or
+other relevant personnel;
+
+
+psychologists — to help analyse the impact of environmental, operational and situational
+factors on motivation and behaviour
+
+sociologists — to help evaluate the factors that affect interactions and performance;
+
+
+
+sleep researchers and professionals — to evaluate the quality of rest available to the
+individual, and the impact on performance of a particular work-rest duty cycle or of circadian
+factors; and
+
+ergonomists — to assess the effect of design and layout on the user.
+
+
+how to assess relevancy of certain behaviour or actions deemed abnormal or non-standard;
+
+
+how to weigh sensitivity and privacy considerations;
+
+
+how to avoid speculation.
+
+
+For example, if an investigation revealed that a pilot made an error leading to an accident, and
+if conditions conducive to fatigue, or a distracting conversation, or evidence of complacency were present, it
+
+
+does not necessarily follow that the error was made because of these conditions. There will inevitably be some
+degree of speculation involved in arriving at the conclusions, and their viability is only as good as the reasoning
+process used by the investigator and the weight of evidence available.
+Because it involves probabilities and likelihoods, inductive reasoning is less precise than
+deductive reasoning. (In this context, “probability” is not meant to imply the precision of mathematical probability; instead, it is used in the way a lay speaker might state some conclusion as being certain, probable,
+possible or unknown). Inferences are drawn on the most probable or most likely explanations of behavioural
+events, and a conclusion reached by inductive reasoning cannot be tested conclusively. Inductive conclusions
+can be challenged, depending on the weight of evidence supporting them. Accordingly, they must be based
+upon a consistent and accepted reasoning method.
+To ensure that all reasonable possibilities are considered while at the same time reducing the
+investigator’s task to manageable levels, the Australian Bureau of Air Safety Investigation has successfully
+applied the following similar step-by-step reasoning process to deal with the less tangible Human Factors
+evidence. In the following discussion, “empirical knowledge” refers to experimental findings which have gained
+general acceptance within the Human Factors research community. It is assumed that the investigator has a
+sound basic knowledge of Human Factors, and that the evidence gathered in the investigation is complete.
+
+The first step in the process is aimed at establishing the probability of the existence of some
+Human Factors condition.
+
+Considering all of the evidence available, establish what Human Factors issues should be
+considered.
+Anytown: After applying a checklist, the investigator decided that there was at least some
+evidence of 17 different Human Factors issues, such as: fatigue, misinterpretation of visual
+cues, inadequate information flow, training deficiencies, scheduling pressure, confusing control
+layout, cockpit lighting, stress, distractions, etc.
+
+Weighing the relative importance of all of these possibilities, determine those issues that
+should be examined in detail.
+After examining the 17 possible factors, the investigator decided that some, such as
+cockpit lighting, were not important. There remained 9 issues requiring examination in detail.
+
+Establish what is empirically known about each of these issues and the underlying causes.
+Anytown: The investigator reviewed Human Factors reference material to confirm what is
+known about the 9 key issues; a human performance specialist provided advice on visual
+illusions.
+
+Compare the circumstances of the occurrence against the empirical knowledge.
+Anytown: Evidence pertaining to the 9 key issues was compared to the corresponding
+reference material.
+
+
+Determine the probability that one or more of these Human Factors conditions existed.
+Anytown: Visual illusion was determined to be highly probable as a factor in the accident
+because of the conditions that existed and the flight path of the aircraft.
+
+The second step is aimed at establishing the probability that a particular Human Factors
+condition influenced the sequence of events leading to an occurrence.
+
+Examine what is empirically known about the effects of the Human Factors conditions
+determined in Step 1 to exist.
+Anytown: The visual illusion which the pilot was probably experiencing (black hole) has been
+studied extensively and is known to cause a characteristic approach path.
+
+Compare the actions and performance of the people involved in the occurrence against the
+empirical knowledge.
+Anytown: The initial approach path recorded on the flight data recorder closely matched the
+typical black hole approach path. Cockpit voice recorder evidence showed that the crew
+believed that the approach path was accurate.
+
+
+Determine the probability that the actions and performance of personnel were affected by the
+Human Factors conditions which existed.
+Anytown: “At the time of the occurrence, the pilot-in-command probably experienced a visual
+illusion induced by the absence of visual cues on the night approach.” Note the use of
+qualifying probability language. It was concluded that the captain misjudged the initial
+approach path because of the illusion.
+
+Determine the probability that the condition did contribute to the sequence of events leading
+to the occurrence.
+Anytown: Late in the approach the crew detected that they were below the desired approach
+path. In their attempts to reestablish a safe approach path they built up excessive airspeed,
+which contributed to the overrun. “It is probable that the visual illusion contributed to the pilot’s
+misjudgement of the approach path.”
+
+
+The steps outlined above rely on an accumulation of evidence which may not allow indisputable conclusions to be drawn, but which will often allow conclusions of probability. In some ways the use of
+conclusions of probability is similar to the legal profession’s use of circumstantial evidence, requiring the
+development and testing of hypotheses. The strength of this approach is that it forces the investigator to draw
+conclusions in a systematic way on the basis of empirical knowledge and verifiable evidence from which there
+are no indisputable conclusions, and ensures that the investigator considers all likely factors.
+
+The analysis of Human Factors must take into account the accident prevention objective of
+the investigation. It has been established that occurrences are seldom the result of a single cause. Thus, if the
+accident prevention aim of an investigation is to be achieved, the Human Factors analysis must acknowledge
+that although individual factors may seem insignificant when viewed in isolation, they can produce a sequence
+of unrelated events that combine to produce an accident. The view of an interactive aviation industry system
+suggested by James Reason provides an excellent framework from which investigators can achieve a thorough
+analysis of Human Factors at all levels. The Human Factors analysis must not focus on the active failures of
+front-line operators alone but must include an analysis of the fallible decisions at all levels which interacted to
+create the “window of opportunity” for an accident to occur.
+
+Having completed the gathering and analysis of the relevant facts, the investigator must
+prepare the report of the investigation. This chapter discusses report writing in general, with emphasis on
+Human Factors issues, and provides the investigator with a method for reporting which expands upon guidance
+contained in the ICAO Manual of Aircraft Accident Investigation.
+3.2
+Prior to writing the report, the investigator should consider who will read it. Accident/incident
+reports attract a varied readership, and each reader looks at the report from a different perspective. Industry
+readers will read the report to ensure that it is technically correct; those who were directly involved in the occurrence will be concerned with their own accountability; the travelling public will want to be assured that problems
+have been identified and are being dealt with; the media will want to extract the more sensational elements;
+and litigants will be looking for who is liable. In writing the report, the investigator should be sensitive to the
+different motivations, striving for technical accuracy, but ensuring that the language used can be understood
+by the layperson and that statements of blame or liability are avoided.
+3.3
+Most importantly, the investigator must keep in mind the fundamental purpose of the investigation: the prevention of accidents and incidents. So, in addition to reporting the causes of an occurrence, the
+report should serve as a means to identify the hazards uncovered during the course of the investigation and
+whether they were handled effectively or ineffectively by the operator and regulator. Also, the report must offer
+recommendations that aim at either eliminating or controlling those hazards. The report also serves as a tool
+to educate the aviation community — to be effective, it should be written so that the reader, be it pilot,
+mechanic, manager or regulator, can recognize and relate to the hazards reported and adopt appropriate
+preventive strategies.
+3.4
+The investigator should also understand that the most important reader is the person
+responsible for the implementation of the report’s safety recommendations. If that person is not convinced by
+the report, preventive actions will not likely be taken.
+3.5
+Richard Wood, in discussing aircraft accident report writing at an International Society of Air
+Safety Investigators (ISASI) conference in Munich in 1989, stated that “everyone who participated in the investigation understands the accident — or they think they do — but the written report is going to be the basis for
+prevention, not the investigator’s recollections. If the report is not adequate, it really doesn’t make any
+difference how good the investigation was.”1 He further points out that a poor report can undermine a good
+investigation because the decision-makers are not going to react to a report that is flawed or poorly
+substantiated. When writing an accident report, investigators should consider the following statement taken
+from the ICAO Manual of Aircraft Accident Investigation:
+
+
+Once the Whats and Whys of the occurrence have been determined, it is relatively easy to
+prepare the report. Report writing is not a blind voyage of discovery wherein one writes down everything one
+knows about the occurrence in the hope that, by the time the end of the report is reached, the facts will speak
+for themselves and the conclusions will logically flow from the text. To write a good report, the investigator must
+acquaint the readers with the facts, conditions, and circumstances of the occurrence in an orderly fashion, and
+analyse the information so that the conclusions and recommendations can be understood. To do this
+successfully, the investigator, like any technical writer, will have to prepare a detailed outline before starting
+to write, and will probably want to work through several drafts to achieve a good result.
+
+In Section 1 — Factual Information, the investigator describes What happened and includes
+information pertinent to the understanding of the circumstances surrounding the occurrence. There are 18
+subsections that give the writer sufficient flexibility to structure the flow of pertinent information. The
+subsections should be thought of as an organizational tool that allows the information gathered during an
+investigation to be arranged in a logical manner and to be included in various sections. To be included in
+Section 1, the information should a) provide an understanding of how the occurrence happened; b) present
+in general terms the role of operational personnel involved and their qualifications; and c) provide the facts and
+background of hazards identified, both related and unrelated to the causes of the occurrence.
+3.9
+Human Factors information and issues should appear in most of the subsections of Section
+1, set down in the standard format as appropriate. Thus:
+
+the sequence of events and actions of the crew, front-line operators, ATC personnel, ground
+crew, etc, as far as can be constructed, are described in sub-section 1.1 — History of the
+Flight. experience, training, qualifications, duty and rest periods of the crew are included in Personnel Information. Information about operational personnel who had
+significant roles in the occurrence, be they maintenance staff, supervisory staff, management,
+or regulatory personnel, should also be included in this sub-section with appropriate sub-titles.
+
+aircraft design, certification, airworthiness, maintenance and mass and balance issues that
+may have had an impact on the operation of the aircraft are described in sub-section 1.6 —
+Aircraft Information.
+
+communications, navaids, weather, pathological issues, etc. — all elements that may have an
+impact on the crew’s ability to operate safely — are covered under specific sub-sections.
+
+
+
+Additional Information — provides a place to include information that
+cannot be readily included in any of the previous sub-sections. It is suggested that the
+investigator structure this section so that a sub-section 1.17.1 can present factual information
+in a format similar to the SHEL model. All the interfaces with the central Liveware component
+can be discussed in this sub-section. For instance, using the Anytown example, the
+investigator could expand on the liveware-liveware interface problems which surfaced in the
+interactions between the captain and first officer, under an appropriate heading such as “Crew
+Co-ordination”. This is also the appropriate sub-section for a discussion of a liveware hardware limitation such as the suitability of the aircraft type for the operation and the
+attendant demands placed on a flight crew. Problems with written information (for example,
+the lack of standard operating procedures) can be addressed in the context of a liveware software limitation. The investigator can also deal with liveware-environment limitations, such
+as management’s decisions with respect to crew selection, pairing, standardisation and
+training, scheduling, etc. Regulatory issues can be addressed, such as the lack of an adequate
+monitoring process within the regulatory agency for certifying new routes. If the investigator
+uses the SHEL model as a tool to aid in the gathering of information during the investigation
+phase, the writing of this section becomes an extension of that process.
+As discussed in Chapter 2 of this digest, the investigator needs to present the empirical
+evidence to support the analysis of those Human Factors deemed influential in the occurrence.
+A sub-section 1.17.2 can provide the appropriate place for additional information of this nature.
+ the investigator would discuss the empirical
+evidence pertinent to visual illusions.
+3.10
+In all parts of Section 1, only facts and factual discrepancies and hazards should be identified.
+One way to show the presence of a discrepancy is to compare the known events to a recognized aviation
+standard; for example, a discrepancy in the Anytown occurrence was the fact that the pilot, on landing, did not
+conform to the recommended technique to avoid hydroplaning. The hazard identified with this discrepancy was
+the airline company’s lack of instruction or requirement to practise the proper techniques to avoid hydroplaning
+during simulator or flight training. Bearing in mind that many readers of the report may be unfamiliar with
+aviation standards and practices, it is often necessary to describe the nature of the deviation in some detail.
+3.11
+In summary, throughout Section 1 of the report the deviations, discrepancies and hazards are
+compared to a recognized standard or with empirical evidence, thus paving the way for the analysis of their
+influence in bringing about the accident.
+3.12
+In Section 2 — Analysis, the investigator can concentrate on developing the reasons why the
+circumstances resulted in the accident, creating the bridge between factual information and conclusions. This
+portion of the analysis will report the results of the Test for Existence steps for the less tangible Human Factors
+issues (see 2.53). Gaps in factual information must be filled in by extrapolation from the available information,
+by making assumptions or by the use of logic. Assumptions used in the course of the investigation must be
+identified in order to explain clearly the reasoning process. It is equally important to clarify what is not known
+and could not be determined, as well as to discuss and resolve controversial and contradictory evidence.
+3.13
+Having established all of the important factual issues making up the occurrence, the
+investigator must then develop the causal links. All reasonable hypotheses should be stated and evaluated to
+demonstrate that alternative explanations of the events have been carefully considered. For the less tangible
+Human Factors issues, the results of the Test for Influence steps will be reported (see 2.54). Richard Wood
+suggests that each sub-section of the analysis should read “like a mini-accident report” wherein the facts
+relating to a particular issue are stated, an analysis summarizing the investigator’s opinions based on the
+
+
+preceding facts is provided, and conclusions about the relevance to the accident are drawn. Each portion of
+the analysis should “stand alone as the definitive analysis of that subject.”2
+3.14
+One way to present the analysis is to follow the order of the information presented in Appendix 1, Part 1. The investigator is free to choose any logical sequence to present the argument in the most
+effective way, however, and the sequence will often depend on the particular circumstances of the accident
+or incident.
+3.15
+Another effective way to present the analysis is through the use of Reason’s model as outlined
+in Chapter 1 of this Digest. Reason’s model — like the SHEL model — is a tool, and the two go hand in hand.
+SHEL is a gathering tool in both the investigation and the presentation of factual information in the report,
+Reason’s model is an analytical framework on which the factual information can be analysed. This model
+fosters a systematic approach to investigation and encourages the investigator to include a description of the
+conditions at the time of the occurrence, line management involvement, and the fallible decisions of upper
+management and the regulator, followed by an analysis of each of these elements in the accident sequence.
+The model allows the investigator to identify the hazards that combined to create the occurrence and points
+the way for redress of these hazards. For example, the investigator can begin by giving a description of the
+defences that were or were not in place and show how the errors committed went unchecked by the defences.
+3.16
+The use of Reason’s model can be demonstrated by the Anytown example. The writer can
+begin by discussing the unsafe acts committed by the captain and why the defences were unable to prevent
+the events from taking place:
+
+the captain did not follow the recommended technique to avoid hydroplaning — had he
+consulted the performance charts, he would have realized that the runway was not long
+enough for the prevailing conditions
+
+the failure by airport personnel to inspect the runway for standing water eliminated one of the
+defences
+
+when the regulators certified the airport despite inadequate firefighting equipment, they did not
+provide a needed defence
+
+the captain’s decision to fly the flight was made without all the available information
+
+These active failures are symptoms of latent failures, i.e. the decisions of upper management and the
+implementation of those decisions by line management. The captain’s performance is a reflection of defective
+policies of both the airline and the aviation administration managements — policies that included an inadequate
+training system, tight schedules that if delayed would collapse, the assignment of an unsuitable aircraft to the
+operation, and the certification of Anytown airport despite its known operational and safety deficiencies. By
+using Reason’s model as a framework, the investigator is able to start with the unsafe acts and show how they
+developed from decisions far removed in both time and space.
+3.17
+Once the causation chain has been formulated and causal hazards identified, the writer can
+turn to other hazards that were non-contributory but which nevertheless warrant safety action.
+3.18
+Section 3 — Conclusions, should flow logically from the analysis. The conclusions stated
+should be consistent with the analysis and all hazards should be identified appropriately. Important findings
+
+may be paraphrases or duplications of the conclusions drawn in the analysis. Investigators must be careful to
+use the same degrees of certainty in their conclusions as they have established in their analyses.
+Anytown: The conclusion reached in the analysis on the role of the illusion could be repeated verbatim:
+“It is probable that the visual illusion contributed to the pilot’s misjudgement of the landing.” It would
+be inconsistent and intellectually dishonest to remove the word “probable” and state this particular
+conclusion as a certainty.
+3.19
+Sometimes the circumstances of the accident are such that no firm conclusion can be drawn
+about causes. Some of the more likely hypotheses should be discussed, but the investigator should have no
+hesitation to state that the causes remain undetermined.
+3.20
+The ICAO Manual of Aircraft Accident Investigation states that “The expression of causes
+should be a concise statement of the reasons why the accident occurred and not an abbreviated description
+of the circumstances of the accident.” It remains a problem that many cause statements in accident reports are
+not really causes on which safety recommendations can be made, but rather merely brief descriptions of the
+accident. The expression of causes may also have other shortcomings — for example, sometimes only one
+or a small number of causal factors receives emphasis to the detriment of other factors which could be equally
+important in terms of accident prevention. Also, there is a tendency to highlight the active failures of the
+persons closest to the event rather than to establish a complete explanation of why the accident occurred.
+3.21
+
+The expression of causes should be based on the following principles:
+
+all causes should be listed, usually in chronological order
+causes should be formulated with corrective and preventive measures in mind;
+
+they should be linked and related to appropriate safety recommendations; and
+causes should not apportion blame or liability.
+
+3.22
+A few States have used a format that eliminated the problems associated with the expression
+of cause statements by simply not making such statements. Instead, their conclusions section comprises a
+listing of all findings considered factors in the occurrence under the heading “cause-related findings”. This is
+followed by a listing, under the heading “other findings”, of all those hazards which did not contribute to the
+occurrence but which nonetheless need to be addressed.
+3.23
+The use of probability language may be called for when stating findings relating to human
+performance. When the weight of the evidence is such that a definitive statement cannot be made,
+investigators should state findings as positively as possible, using the appropriate degree of confidence and
+probability in their language.
+
+ACCIDENT PREVENTION
+3.24
+According to the ICAO Accident Prevention Manual, accident prevention must aim at all
+hazards in the system, regardless of their origin. If we are to prevent accidents, follow-up action must be taken
+in response to the hazards identified in the course of accident and incident investigations. ICAO Annex 13 places
+considerable emphasis on such accident prevention measures. Recommendation 7.1 states that:
+
+34
+
+ICAO Circular 240-AN/144
+At any stage of the investigation of an accident or incident, wherever it occurred, the accident
+investigation authority of the State conducting the investigation should recommend to the
+appropriate authorities, including those in other States, any preventive action which needs to
+be taken promptly to prevent similar occurrences.
+
+3.25
+Regarding Section 4 of the final report — Safety Recommendations, the ICAO Manual of
+Aircraft Accident Investigation states:
+Include here any safety recommendation made for the purpose of accident prevention and state, if
+appropriate, any resultant corrective action. Irrespective of whether recommendations are included as
+an integral part of the report or presented separately (dependent upon State procedures), it should be
+borne in mind that the ultimate goal of a truly effective investigation is to improve air safety. To this end
+the recommendations should be made in general or specific terms in regard to matters arising from
+the investigation whether they be directly associated with causal factors or have been prompted by
+other factors in the investigation.
+3.26
+While the emphasis is on formulating recommendations, the more difficult task is clearly
+identifying the hazards warranting follow-up safety action. The focus of the investigator at this point must be
+on problem definition, as only after the problem has been clearly identified and validated can reasonable
+consideration be given to corrective action.
+3.27
+The Reason model, as illustrated in Figure 3-1, provides guidance in the formulation of
+preventive measures just as it provides guidance for accident investigation. Since many of the psychological
+precursors and unsafe acts are results of decisions made further up the line, it makes sense to concentrate
+preventive measures on hazards created or ignored by the higher levels of management. If the report focuses
+on the specific error of an individual while failing to consider higher-level decisions, it will do nothing to address
+the underlying responsibilities for identifying, eliminating or mitigating the effects of hazards.
+
+Failure types
+
+LINE
+MANAGEMENT
+DEFICIENCIES
+
+
+Failure tokens
+
+PSYCHOLOGICAL
+PRECURSORS
+OF UNSAFE
+ACTS
+
+UNSAFE
+ACTS
+
+ACCIDENTS
+AND
+INCIDENTS
+Local checks
+on adequacy
+of existing
+defences
+
+
+
+
+
+How effective companies, manufacturers or regulators are at identifying, eliminating or
+mitigating hazards is dependent upon the response strategy they adopt. There is a choice of three:
+deny that there is a problem;
+repair the observed problem to prevent its recurrence; or
+reform or optimise the system as a whole.
+
+Each strategy has its own typical set of actions. A denial strategy may involve dismissing the pilot or producing
+a pilot-error statement; it deals only with the unsafe act and looks no further for explanation. A repair strategy
+recognises the immediate problem and attempts to rectify it through actions such as retraining the person who
+committed the unsafe act or modifying dangerous items of equipment. A reform strategy admits that there are
+problems beyond the unsafe act level and systematic action is taken, leading to reappraisal and eventual
+reform of the system as a whole.
+3.29
+When companies, regulators, and accident investigators adopt a reform strategy, they turn their
+attention to loops 3 and 4 in Figure 3-1. Deficiencies at these higher levels — including those which had
+nothing to do with the accident in question — deserve greatest attention in the investigation and report-writing
+phase. Because the causal connection is frequently tenuous, it is often a challenge to establish that a
+hazardous situation was created at this level. It should also be noted decision-makers do not always receive
+the feedback that they need to make sound decisions — such feedback is sometimes filtered by line
+management, resulting in unintended consequences for the organisation and its personnel.
+3.30
+The problem of identifying a causal connection between a hazard and high-level management
+can be overcome through a systematic investigation, the appropriate research of other similar operations and
+examination of safety data bases. For example, using the Anytown airport scenario, it may be determined that
+co-ordination between pilot and co-pilot was poor, partly because both pilots were inexperienced on aircraft
+type and with the operation. Disciplining or dismissing them would do nothing to eliminate the problems of crew
+pairing, not only in the company but in the aviation system at large. But to establish the existence of this
+hazard, the investigator would probably have to allude to several other accidents where a link had been
+established between crew co-ordination problems and higher-level corporate decisions with respect to crew
+pairing. Having established a common hazard for this type of operation would then lead directly to a variety of
+preventive strategies for dealing with such operational hazards, strategies which could be implemented and
+monitored.
+3.31
+The amount of time required to validate a safety hazard varies. When dealing with clear-cut
+factual findings such as errors in publications, material deficiencies through design errors, etc., the validation
+phase may be relatively short. However, for potential safety hazards involving areas of Human Factors (e.g.
+the effects of fatigue on crew performance, the consequences of a company’s putting pressures on pilot
+decision-making, etc.) validation can be time-consuming, as factual evidence is often more difficult to acquire,
+and the effects of their interrelationships more difficult to assess. The difficulty was illustrated by the NTSB
+investigation into the Fairchild Metro III accident at Bayfield, Colorado in 1988. Toxicology tests revealed traces
+of cocaine and cocaine metabolite in the pilot. A major human performance issue was to examine the possible
+effect cocaine usage had on the accident sequence. The scientific data on the behavioural effects of cocaine
+exposure were limited, and assessment of the effects on performance was complicated when inadequate rest
+and a long duty day were added to the equation. Individual differences also had to be acknowledged in
+determining the effects of the interrelationship of these factors. This issue is still unresolved.
+3.32
+For many human performance phenomena, the evidence from a single occurrence may be
+insufficient to validate a safety hazard. Hence, the investigator must evaluate the data available from similar
+
+
+
+occurrences (perhaps on a worldwide basis) to demonstrate the probable impact of a particular phenomenon
+on human performance in the investigation in question. A comprehensive review of the professional literature
+may be warranted. In extreme cases additional formal study by specialists may be justified in order to validate
+the existence of a hazard.
+3.33
+With a clear understanding of the problem, the investigator can formulate and assess various
+alternative courses of action to remedy the problem. The draft recommendation should be considered for its
+technical feasibility, acceptability by the aviation community, practicality and ease of implementation. In
+assessing alternative courses of action, consideration must also be given to the most appropriate recipient for
+the recommendation.
+3.34
+Safety recommendations should not be considered as authoritative edicts by the investigating
+body. Since the investigator cannot be omniscient, blind obedience by the regulator in implementing
+recommendations could bring great harm to the industry. For example, the investigator is seldom in a good
+position to assess the economic feasibility of implementing a particular safety measure, and the agency
+receiving a safety recommendation should be given considerable latitude in choosing the most appropriate
+course of action. The investigating agency should be satisfied if the identified safety deficiency is adequately
+addressed, whether or not recommendations were specifically followed. Hence, the actual wording of
+recommendations should be quite general, in order to give the action agency sufficient room to manoeuvre.
+“A well thought-out recommendation should achieve two goals:
+
+It should clearly focus attention on the problem, not on the suggested solution to it.
+This should eliminate the possibility that the problem will be rejected along with the
+recommendation; and
+
+
+The recommendation should be flexible enough to permit the action agency some
+latitude in precisely how that objective can be achieved. This is particularly important
+if all the salient facts are not yet available and some additional examination and
+testing appears necessary.
+
+In other words, the recommendation should focus on what needs to be changed, rather than
+how to do it.”
+Richard Wood has also noted that safety recommendations can generally be classified into one of three levels:
+
+
+a level one safety action completely removes the offending safety hazard;
+
+
+
+a level two safety action modifies the system so as to reduce the risk of the underlying hazard;
+and
+
+
+
+a level three safety action accepts that the hazard can be neither eliminated nor reduced
+(controlled), and therefore aims at teaching people how to cope with it.
+
+The aim should always be to eliminate safety hazards; unfortunately, when dealing with hazards deriving from
+Human Factors, the tendency has been to prescribe level three coping strategies.
+3.35
+Since safety hazards with respect to many Human Factors may be extremely difficult to
+validate, it may be wise to recommend further study of the perceived hazard by more competent authorities.
+
+In this way, the investigator can proceed with the confidence that the investigation report is not the final word
+on particularly difficult safety issues. Industry’s recognition of the importance of crew resource management
+(CRM) illustrates this point. In a number of one State’s accident investigation reports, the hazards resulting from
+the lack of effective flight deck management were identified and recommendations made. The problem was
+thus validated through the investigation and analysis of many accidents, and this validation led to some of the
+larger airlines not only recognising there were potential problems in the cockpit, but also designing and
+implementing CRM courses to improve cockpit co-ordination. Other airlines, realizing the value of CRM training,
+then began to instruct their flight crews, using the courses developed by the larger companies, and CRM
+training is now widely accepted and available.
+
+CONSULTATION WITH STATES
+3.36
+The consultative process is one in which the final report is circulated in draft form to the States
+involved in the investigation, giving them an opportunity to comment on it and thus ensuring its completeness
+and accuracy and pre-empting criticism after public release. This process should not be seen as an opportunity
+to cloud the issues, nor as a forum for litigation, but rather as a process whereby the States involved can take
+positive steps toward ensuring that the report adequately reflects the accident sequence, identifies the safety
+hazards present and recommends appropriate remedial action for the promotion of accident prevention. This
+is a valuable process which also could be practised within a State when dealing with interested parties in a
+domestic occurrence.
+
+
+As previously mentioned, seldom do the events of a single accident or incident convincingly
+demonstrate the presence of a fundamental safety hazard with respect to Human Factors. Usually, such
+hazards are only validated through the analysis of similar occurrences. For such a validation process to be
+effective, all relevant information from previous similar occurrences would have to be adequately recorded for
+future reference. Indeed, one of the many reasons why progress has been slow in initiating appropriate
+preventive actions for many Human Factors issues is inadequate reporting of this type of information.
+Whether or not the Human Factors data gathered in an investigation are clearly linked to the
+causes of the specific occurrence, they should be recorded in a Human Factors data base to facilitate future
+analysis. For ICAO Contracting States, the principal data base for recording such information is ADREP, a
+system which records a series of factors describing what happened as well as a series of factors explaining
+why it happened.
+3.40
+Since human error or shortcomings in performance are usually factors in accidents, ADREP
+provides a sound framework for recording Human Factors data. Unfortunately, to date ADREP has not been
+consistently used to record pertinent data from incidents or even from some State’s accidents.
+3.41
+There are other data bases available to support the investigation of Human Factors. For
+example, the Aviation Safety Reporting System in the United States has compiled the data from over 100 000
+voluntary reports of hazards by pilots and air traffic controllers; most of these have a human performance
+
+element. Other States with voluntary reporting systems are similarly developing specialized data bases which
+have a high Human Factors content. Universities and research organizations also compile highly specialized
+data bases for analysing particular Human Factors phenomena within the context of their research efforts.
+While such data bases may provide a useful adjunct to the investigator in analysing a particular occurrence,
+they are not suitable repositories for the data arising out of the investigation — only ADREP satisfactorily
+provides a comprehensive world-wide means of recording accident/incident data to facilitate a better
+understanding of the explanatory factors.
+3.42
+On a world-wide basis, there is a continuing requirement to provide better means of recording
+Human Factors data in a user-friendly format if we are to learn from the lessons of others. Given the frequency
+of Human Factors elements in accidents and incidents, it is imperative that we facilitate future safety analysis
+through better data reporting.
+
+Although each checklist reflects a different approach to the investigation of Human Factors, all three have the
+goal of assisting the investigator to identify the relevant factors and focus analysis on germane issues. Any
+one, or even all three, may be adapted for use by the investigator.
+
+
+To determine the relevant areas warranting further Human
+Factors investigation/analysis, rate the importance of each factor
+by indicating the appropriate weighting value beside each item.
+
+Personality, moods, character
+
+Memory mindset (expectancy)
+
+Habit patterns
+
+Perceptions or illusions
+
+Bush pilot syndrome
+
+BEHAVIOURAL FACTORS
+MEDICAL FACTORS
+Faulty planning (pre-flight, in-flight)
+
+Haste (hurried departure, etc.)
+
+Pressing the weather
+
+
+boredom, inattention, distraction
+
+
+Personal problems (familial,
+professional, financial)
+
+Overconfidence, excessive
+motivation (“get-home”itis)
+
+
+Lack of confidence
+
+
+
+Physical attributes, conditioning
+and general health
+
+Sensory acuity (vision, hearing,
+smell
+Fatigue
+
+
+Sleep deprivation
+
+
+Circadian disrhythmia (jet lag)
+
+
+Nutritional factors (missed meals,
+food poisoning
+
+Apprehension/panic
+
+
+Medication(s) (self-prescribed)
+
+Violation of flight discipline
+(risk-taking)
+
+
+Medication(s) (doctor-prescribed)
+
+Error in judgement
+
+
+Drug/alcohol ingestion
+
+
+Delay
+
+Altered consciousness
+Complacency, lack of
+motivation
+
+Reaction time or temporal distortions
+
+Hypoxia, hyperventilation
+
+Interpersonal tension
+
+
+Disbarisms, trapped gases
+
+Inadequate stress coping
+
+Decompression
+Drug abuse
+
+Motion sickness
+Alcohol/hangover
+
+Disorientation, vertigo
+Visual illusions
+
+
+Stress
+
+
+Hypothermia/hyperthermia
+
+
+Other acute illness(es)
+
+
+Pre-existing disease
+OPERATIONAL FACTORS
+
+EQUIPMENT DESIGN FACTORS
+
+Design/location of instruments,
+controls
+
+Lighting
+
+Workspace incompatibility
+
+Anthropometric incompatibility
+
+Confusion of controls, switches, etc.
+Personnel selection
+Misread instruments
+Limited experience
+Visual restrictions due to structure
+
+Inadequate transition training
+Task oversaturation (complex steps)
+
+Lack of currency/proficiency Inadvertent operation
+
+
+Inadequate knowledge of
+A/C systems
+
+
+Cockpit standardization (lack of)
+
+
+Personal equipment interference
+
+
+Inadequate knowledge of
+A/C life support systems
+
+
+In-flight life support equipment
+
+Company policies and procedures
+Effects of automation
+
+Supervision
+Seat design/configuration
+
+Command and control relationships
+
+
+Aerodrome design and layout
+
+Company operating pressures
+
+Conspicuity of other aircraft,
+vehicles etc.
+
+
+Crew compatibility
+
+
+Crew training (e.g. cockpit
+resource management)
+
+
+Inadequate flight information
+(A/C manuals, flight planning, etc.)
+
+ENVIRONMENTAL FACTORS
+
+Weather
+
+
+Air turbulence
+
+
+Illusions (white-out, black hole, etc.)
+
+
+Visibility restriction (glare, etc.)
+
+TASK-RELATED FACTORS
+
+Tasking information (briefing, etc.)
+
+
+Work area lighting
+
+
+
+Task components (number,
+duration, etc.)
+
+
+Noise
+
+
+Workload tempo
+
+
+Acceleration/deceleration forces
+
+
+
+Workload saturation
+
+
+
+Decompression
+
+
+
+Supervisory surveillance of operation
+
+
+
+Vibration
+
+
+
+Judgement and decision-making
+
+
+Heat/cold
+
+
+
+Situational awareness
+
+
+
+Windblast
+
+
+Distractions
+
+
+Motion (dutch roll, snaking, etc.)
+
+Short-term memory
+
+Smoke, fumes in cockpit
+
+
+False hypotheses (vs. expectancy,
+habit, etc.)
+
+
+Oxygen contamination
+
+Cockpit resource management
+
+poisoning or other
+toxic chemicals
+
+
+Radiation
+
+
+Electrical shock
+
+
+Flicker vertigo
+
+Air Traffic Control
+
+
+
+
+Communications (phraseology, rate
+of speech, pronunciation etc.)
+
+
+
+Working environment (lighting,
+noise, visibility, etc.)
+
+
+
+Equipment/display layout and design
+
+
+
+Judgement
+
+
+
+Training and currency
+
+
+
+Co-ordination and back-ups
+
+
+Supervisory presence
+
+ATC policies and operating
+procedures
+
+Adequacy of written materials
+(availability, understandability,
+currency)
+Misinterpretation of oral
+communications
+
+
+
+Language barrier
+
+
+
+Noise interference
+
+
+
+Disrupted oral communication
+
+
+
+Intra-crew co-ordination
+
+
+
+Vehicle Operators
+
+Selection and training
+
+
+Working environment (noise, fatigue,
+visibility, etc.)
+
+Crew/ATS communication
+
+
+Command and control, supervision
+
+
+
+Timeliness/accuracy of verbal
+communications
+
+Aircraft Line-Servicing Personnel
+
+
+Selection and training
+
+
+
+Cockpit crew non-verbal
+communications
+
+
+
+Availability of relevant information
+
+
+
+Cockpit warnings, horns, chimes, etc.
+
+
+
+Operating pressures
+
+
+
+Cockpit instrument displays1
+
+
+Supervision
+
+
+Airport signals, marking
+and lighting
+
+
+Ground/hand signals
+
+SURVIVABILITY FACTORS
+
+
+Crashworthiness of design
+
+Post-accident life support equipment
+(exits, chutes, life vests, ELTs,
+medical kits, etc.)
+
+OTHER PERSONNEL FACTORS
+Air Traffic Control
+
+
+Command and control procedures
+
+
+Attention (vigilance,
+forgetfulness, etc.)
+
+
+Crew training
+
+
+Fatigue vs workload
+
+
+Passenger briefings and demos
+
+B. CHECKLIST BASED ON THE SHEL MODEL
+FACTORS RELATING TO THE
+INDIVIDUAL (LIVEWARE)
+PHYSICAL FACTORS
+Physical characteristics
+height, weight, age, sex
+build, sitting height, functional
+reach, leg length, shoulder width
+strength, coordination
+
+Sensory limitations
+Vision 
+visual threshold
+* visual acuity (seeing details)
+* focus time
+* light adaptation
+* peripheral vision
+* speed, depth perception
+* empty field myopia
+* glasses, contacts
+
+* auditory threshold, understanding
+* vestibular (ear senses)
+* smell, touch
+* kinaesthetic (body feelings)
+* g-tolerances
+
+2. PHYSIOLOGICAL FACTORS
+Nutritional factors
+* food intake 24 hours
+* hours since last meal
+* dehydration
+* on a diet/weight loss
+Health
+* disease
+* fitness
+* pain
+* dental conditions
+* blood donation
+* obesity, pregnancy
+* stress coping (emotional/
+behavioural signs)
+* smoker
+Lifestyle
+* friendships
+* relations with others
+* change in activities
+* life habits
+Fatigue
+* acute (short term)
+* chronic (long term)
+* skill (due to task)
+* activity level (mental/physical)
+Duty
+* duration of flight
+* duty hours
+* leave periods — activities
+Sleep
+* crew rest, nap duration
+* sleep deficit, disruption
+* circadian disrythmia (jet lag)
+Drugs
+* medication over the counter
+* medication — prescription
+* illicit drugs
+* cigarettes, coffee, others
+Alcohol
+* impairment
+* hangover
+* addiction
+Incapacitation
+* carbon monoxide poisoning
+* hypoxia/anoxia
+* hyperventilation
+* loss of consciousness
+* motion sickness
+* food poisoning
+* nauseating fumes
+* toxic fumes
+* others
+
+Decompression/diving
+* decompression
+* trapped gas effects
+* underwater diving
+Illusions
+Vestibular
+* somatogyral (vertigo)
+* somatogravic
+* the leans
+* coriolis illusion
+* elevator illusion
+* giant hand
+Visual
+* black hole
+* autokinesis
+* horizontal misplacement
+* circularvection
+* linearvection
+* landing illusions
+* chain-link fence illusion
+* flicker vertigo
+* geometric perspective illusion
+3. PSYCHOLOGICAL FACTORS
+Perceptions
+Types
+* non perception
+* misperception
+* delayed perception
+Reaction time
+* to detect
+* to make an appropriate decision
+* to take the appropriate action
+Disorientation
+* situational awareness
+* spatial
+* visual
+* temporal
+* geographic (lost)
+Attention
+* attention span
+* inattention (general, selective)
+* distraction (internal, external)
+* channelized attention
+* fascination, fixation
+* vigilance, boredom, monotony
+* habit pattern interference
+* habit pattern substitution
+* time distortion
+Information Processing
+* mental capacity
+* decision making (delayed, poor)
+* judgment (delayed, poor)
+* memory capacity
+* forgetting
+* co-ordination — timing
+Workload
+* task saturation
+* underload
+* prioritization
+* task components
+
+ICAO Circular 240-AN/144
+Experience/recency
+* in position
+* in aircraft type, total time
+* on instruments
+* on route, aerodrome
+* night time
+* emergency procedures
+Knowledge
+* competence
+* skills/techniques
+* airmanship
+* procedures
+Training
+* initial
+* on the job
+* ground
+* flight
+* transition, learning transfer
+* recurrent
+* problem areas
+* emergency procedures
+Planning
+* pre-flight
+* in flight
+Attitudes/moods
+* mood
+* motivation
+* habituation
+* attitude
+* boredom
+* complacency
+Expectations
+* mind set/expectancy
+* false hypothesis
+* “get-home”itis
+* risk-taking
+Confidence
+* in aircraft
+* in equipment
+* in self
+* overconfidence, showing off
+Mental/emotional State
+* emotional state
+* anxiety
+* apprehension
+* panic
+* arousal level/reactions
+* self-induced mental
+pressure/stress
+Personality
+* withdrawn, grouchy, inflexible
+* hostile, sarcastic, negative
+* aggressive, assertive, impulsive
+* excitable, careless, immature
+* risk taker, insecure, follower
+* disorganized, late, messy
+* anti-authoritative,resigned
+* invulnerable, "macho"
+
+* significant lifestyle changes
+* family pressure
+FACTORS RELATED TO INDIVIDUALS
+AND THEIR WORK
+1. LIVEWARE-LIVEWARE
+(HUMAN-HUMAN) INTERFACE
+Oral communication
+* noise interference
+* misinterpretation
+* phraseology (operational)
+* content, rate of speech
+* language barrier
+* readback/hearback
+Visual signals
+* ground/hand signals
+* body language
+Crew interactions
+* supervision
+* briefings
+* co-ordination
+* compatibility/pairing
+* resource management
+* task assignment
+* age, personality, experience
+Controllers
+* supervision
+* briefing
+* coordination
+Passengers
+* behaviour
+* briefing
+* knowledge of aircraft, procedures
+WORKER-MANAGEMENT
+Personnel
+* recruitment/selection
+* staffing requirements
+* training
+* policies
+* remuneration/incentives
+* crew pairing, scheduling
+* seniority
+* resource allocation
+* operational support/control
+* instructions/directions/orders
+* managerial operating pressure
+Supervision
+* operational supervision
+* quality control
+* standards
+Labour relations
+* employee/employee-management
+* industrial action
+* unions/professional group
+
+4. PSYCHOSOCIAL FACTORS
+* mental pressure
+* interpersonal conflict
+* personal loss
+* financial problems
+
+Pressures
+* mental pressure — operational
+* morale
+* peer pressure
+
+43
+
+44
+Regulatory agency
+* standards
+* regulations
+* implementation
+* audit
+* inspection
+* monitoring
+* surveillance
+2. LIVEWARE-HARDWARE
+(HUMAN-MACHINE) INTERFACE
+Equipment
+Switches, controls, displays
+* instrument/controls design
+* instrument/controls location
+* instrument/controls movement
+* colours, markings, illumination
+* confusion, standardization
+Workspace
+* workspace layout
+* workspace standardization
+* communication equipment
+* eye reference position
+* seat design
+* restrictions to movement
+* illumination level
+* motor workload
+* information displays
+* visibility restrictions
+* alerting and warnings
+* personal equipment interference
+(comfort)
+* data link
+* operation of instruments
+(finger trouble)
+3. LIVEWARE-SOFTWARE
+(HUMAN-SYSTEM) INTERFACE
+Written information
+* manuals
+* checklists
+* publications
+* regulations
+* maps and charts
+* NOTAMs
+* standard operating procedures
+* signage
+* directives
+Computers
+* computer software
+* user friendliness
+Automation
+* operator workload
+* monitoring task
+* task saturation
+* situational awareness
+* skill maintenance
+* utilization
+Regulatory requirements
+* qualification — in position
+* qualification — in management
+
+ICAO Circular 240-AN/144
+* certification
+* medical certificate
+* licence/rating
+* non-compliance
+* infraction history
+4. LIVEWARE-ENVIRONMENT
+(HUMAN-ENVIRONMENT) INTERFACE
+INTERNAL
+* heat, cold, humidity
+* ambient pressure
+* illumination, glare
+* acceleration
+* noise interference
+* vibrations
+* air quality, pollution, fumes
+* ozone, radiations
+EXTERNAL
+Weather
+* weather briefing, FSS facilities
+* weather: actual and forecasts
+* weather visibility, ceiling
+* turbulence (wind, mechanic)
+* whiteout
+Other factors
+* time of day
+* lighting/glare
+* other air traffic
+* wind blast
+* terrain/water features obstacles
+Infrastructure
+Dispatch facilities
+* type of facilities
+* use
+* quality of service
+At the gate
+* APU
+* towing equipment
+* refuelling equipment
+* support equipment
+Aerodrome
+* runway/taxiway characteristics
+* markings, lighting, obstructions
+* approach aids
+* emergency equipment
+* radar facilities
+* ATC facilities
+* FSS, weather facilities
+* airfield facilities
+Maintenance
+* support equipment
+* availability of parts
+* operational standards,
+procedures and practices
+* quality assurance practices
+* servicing and inspection
+* training
+* documentation requirements
+
+
+The purpose of this checklist on selection, training and
+experience for human factors aspects of accident investigation
+is to assist the investigator during the field phase in developing
+a comprehensive factual base on the pilot selection, training and
+experience issues relevant to the specific accident under
+investigation.
+An effort has been made to present the checklist in a generic
+format so that investigators can apply it to any modality by
+substituting “air traffic controller”, “mechanic”, etc., for “pilot”, as
+appropriate. However, since most accidents are by nature
+unique and diverse, some degree of discretion will be required
+to tailor the checklist to particular cases. In this way, the
+checklist is a dynamic tool, to be modified and updated with use
+over time.
+
+How long has the pilot worked for this specific employer?
+How long did the pilot work for his previous employers?
+Was the pilot's previous experience verified by his/her
+current employer? Has the pilot ever been involved in any other accidents in this
+modality? If yes,
+ Describe the circumstances. When? What equipment was in use?
+ Has the pilot ever been involved in any other accidents in
+other modalities? If yes,
+
+ SELECTION
+ When was the pilot selected for this position?
+ How was the pilot selected?
+ What were the required qualifications? (e.g. experience,
+education, training
+requirements)
+
+ What is the total length of time the pilot has worked in this
+modality?
+
+and
+
+physiological/medical
+
+ Were any examinations required? What? When taken?
+ What special licences were required?
+ Were the pilot's qualifications, references and licenses
+verified by his/her employer prior to selection for
+employment? Was specific training on this position provided to the pilot
+before he was selected for it? If yes,
+
+ Describe the circumstances.
+ When?
+ What equipment was in use?
+Has the pilot ever complained about or reported any
+problems related to the use of this specific equipment? If
+yes, Describe the nature of the complaints or report.
+ When?
+ Were any corrective action made? By whom? When?
+ Have any other similar complaints or reports ever been
+made? Provide details.
+
+Describe the content of the training.
+
+PILOT TRAINING
+
+When was this training?
+
+The investigator should review (requesting copies when
+applicable) training-related records, documents, rule books,
+manuals, bulletins and pilot examinations.
+
+Who provided this training? Was specific training on this position provided to the pilot
+after he was selected for it? If yes,
+Describe its content.
+
+ What training has the pilot received on the use of equipment
+in this modality?
+When was this training given?
+
+Describe the training: classroom? simulator? on-the-jobtraining (OJT)? materials used? topics?
+
+Who provided this training?
+ When did the pilot receive it?
+
+ Where any problems ever noted with the pilot's performance
+after he assumed the duties of this position? If yes,
+ describe the problems.
+ When were these observations made? Who made these observations?
+ What actions, if any, were taken to correct the problems?
+ PILOT EXPERIENCE
+What other experience has the pilot had using this specific
+equipment? What other jobs has the pilot had using other equipment in
+this modality?
+Who were the instructors and/or supervisors? How was the pilot's performance evaluated (e.g. check
+ride, on the road, simulation, paper and pencil
+examination)?
+ What was the over-all evaluation of the pilot's
+performance?
+ Were any problems noted in the pilot's performance? If
+yes,
+— What were they?
+— How were they noted and by whom?
+— What corrective actions were taken, if any? Initial training vs. follow-on training using this specific
+equipment:
+ Has the pilot received training on this equipment from
+more than one employer? If yes,
+— Which employer provided the initial training?
+— When?
+— How much emphasis was placed on:
+— compliance with Standard Operating Procedures
+(SOPs)
+— compliance with rules and requirements?
+— use of performance evaluations (e.g. check rides,
+examinations)?
+b) How does the pilot's initial training differ from any followon or subsequent training in terms of the following:
+— Compliance with SOPs?
+— Compliance with rules and regulations?
+— Use of performance evaluations (e.g. check rides,
+examinations)?
+c) Do any of these differences appear related to the
+mishaps?
+— Did the pilot violate any SOPs he had been taught? If
+yes,
+— What were they?
+— When were they taught?
+— Did the pilot violate any rules or requirements he had
+been taught? If yes,
+— What were they?
+— When were they taught?
+— Has the pilot ever violated any rules, requirements, or
+SOPs before? If yes,
+— What were the circumstances?
+— What actions were taken?
+— Has the pilot received any new, recent training that
+may have:
+— Interfered with his knowledge and skills in using
+this equipment?
+— Required his use of new, different SOPs under
+emergency conditions?
+
+Other training issues: Has the pilot received any recent training for:
+— Transition to operation of different equipment in this
+modality?
+— Learning different operations of similar equipment
+systems?
+
+b) If the pilot has received any recent transition and/or
+differences training:
+— Describe when and type.
+— Check potential interference from this training with
+operation of accident equipment.
+c) Is the pilot current in all areas of accident equipment
+operation?
+— Describe areas lacking currency.
+— Describe required exams, certificates or licenses
+indicating full currency.
+d) Rate sufficiency of training on:
+— Emergency situations.
+— Equipment malfunctions.
+— Maintenance reports, complaint procedures, logs.
+— Crew interaction and coordination skills.
+— Degraded conditions (e.g. reduced visibility, high sea
+state, gusty or high winds, heavy precipitation).
+— Communication procedures.
+— Physiological requirements (e.g. issues related to
+rest, health, nutrition and use of medication, drugs
+and alcohol).
+e) If simulators or training device were used for training:
+— What specific training was provided in the simulator or
+training device?
+— What are the major similarities and/or differences
+between the simulator or training device and the
+actual equipment?
+— How recent was the training with the simulator or
+training device?
+— Were any problem areas noted in the pilot's
+performance?
+f) Did the pilot receive training specifically related to the
+conditions of the mishap (e.g. wind-shear, equipment,
+malfunction, specific type of emergency, specific weather
+conditions)? If yes,
+— Describe when and type.
+— How did the pilot perform in training?
+g) Was the pilot providing or receiving training at the time of
+the mishap? If yes,
+— Describe the circumstances in detail.
+— Determine the qualifications of instructor(s) and/or
+trainee(s) involved.
+— When did this training begin and how long had it been
+in progress?
+
+
+Interviews conducted with individuals either directly or indirectly involved in an occurrence are an important
+source of evidence. Information gleaned from such interviews can be used to confirm, clarify, or supplement
+information learned from other sources. Certainly, in the absence of measurable data, interviews become the
+single source of information, and investigators need to be well acquainted with the techniques required to
+ensure effective interviews.
+Information gained in interviews will help to determine what happened. More importantly, interviews are
+often the only way to answer the important “why” questions which, in turn, can facilitate correct and effective
+safety action.
+In most investigations, Human Factors will have to be assessed, and the investigator who dons the Human
+Factors hat will be faced with interviewing a variety of people. Included within this group are survivors (both
+crew and passengers), next of kin, friends, colleagues and company management/training personnel.
+In preparation for interviews, investigators must remember that every witness deals with the occurrence
+from a different perspective. Consider the cabin crew members who survived a crash and may be suffering guilt
+at the fact that they survived while others died; they may be struggling with their role in the crash sequence,
+tormenting themselves with “What if” questions. The situation might involve flight crew members experiencing
+a myriad of emotions: grief where deaths are involved; pressure from company management or union representative; stress over whether their livelihood is at stake; anxiety over regulatory action; confusion about what
+happened, etc. Company management concerns may focus on regulatory action and litigation, and responses
+may be tailored accordingly.
+Next of kin interviews are always difficult — imagine the emotional roller coaster experienced by the next
+of kin: grief and anger at the loss of a loved one; perhaps guilt; anxiety over financial concerns; confusion
+caused by media accounts, etc. Further consideration will have to be given to the witness who is under
+medication for shock or physical pain as a result of injury; such a situation will have some bearing on how
+extensive the interview will be and on its validity.
+The investigator has to be a chameleon, capable of adapting to various scenarios. An effective interviewer
+remains objective and avoids making evaluations early in the interview. Even when faced with conflicting
+evidence, the investigator should listen to what a witness has to relate and should suspend judgement of that
+information until all facts have been gathered and an assessment can be made: the pilot who has been fired
+may be a disgruntled employee with a desire to sully the company’s reputation or he may be a credible witness
+with very real truths to relate.
+The investigator must give special consideration to grieving next of kin, projecting the right amount of
+empathy without becoming sympathetic. The interview is a dynamic situation, and, to take advantage, the
+investigator has to be adaptable, knowing when to focus and when to back off. Before conducting an interview,
+the investigator should try to obtain as much information about factors such as the crash sequence (walking
+the site may be helpful), applicable procedures that were in effect (allows comparison to what was done in
+
+
+actuality), the crew (scanning pilot records will tell, for example, whether the pilot was required to wear glasses,
+and, during subsequent interviews, the investigator can attempt to establish if the pilot wore glasses during the
+flight), etc. By knowing as much as possible before the interview, the investigator has room to manoeuvre and
+is saved having to re-interview.
+
+Success of the interview
+Good interviews are the result of effective planning. There are a number of preparatory issues that need to be
+considered before an interview is conducted:
+
+Timing of interviews
+Interviews should be conducted as soon as possible after the occurrence to prevent loss of perishable information as a result of fading memory or rationalisation. Passage of time also permits contamination of information,
+which occurs when witnesses confer with one another or listen to or read media accounts. If it is necessary to
+delay interviews, statements should be requested. These serve the dual purpose of capturing facts before
+natural decay, in addition to assisting the investigator in the preparation of the subsequent interview.
+
+Location
+Witnesses should be made to feel at ease, and to this end the investigator should choose a location that is
+quiet, reasonably comfortable, and free from interruption. If a witness wishes to smoke, the investigator should
+accommodate this wish. Next of kin will probably prefer to be interviewed in their own home.
+
+Approach
+Because Human Factors permeate all aspects of an accident, it is often advantageous for the investigator to
+conduct interviews in conjunction with investigators from other groups. This approach recognizes the requirement for cross-fertilization within an investigation and, in doing so, becomes an effective tool in gathering
+information. The team approach may eliminate the need to re-interview a witness and is thus a more efficient
+use of resources. Further, as team members, the investigators are able to later corroborate the information
+given. In deciding whether to use the team approach, the witness’s personality and the sensitivity of information
+sought must be considered. In some circumstances, a private one-on-one interview will illicit much more
+information.
+During interviews, investigators should minimize their input and instead concentrate on active listening —
+an investigator who is talking isn’t listening. Certainly, the investigator must direct the interview and keep it
+moving, but, generally, the less active the interviewer, the more productive the result. By listening to what is
+being said, the investigator will be able to reformulate questions appropriate to the situation, note discrepancies
+and sudden changes in conversation, perceive innuendoes and observe a witness’s gestures and behaviour.
+Silence can be an effective tool during the interviewing process, and the investigator should avoid trying
+to fill in pauses in conversation too quickly. More often than not, people want to talk about the occurrence,
+about the friend, husband or wife they lost, about the wrongs they believe should be righted, etc., and they will
+often fill in the pauses themselves.
+
+Co-operation
+Co-operation, which is essential to the success of the interview, is often determined by the impression the
+investigator makes on the person being interviewed. A friendly approach that treats the witness as an equal
+and is as unobtrusive as possible is preferable to one that is effusive or bureaucratic. Simple things, such as
+assessing the audience and dressing accordingly, may make a difference in how forthcoming a witness is with
+information. Casual clothes instead of a suit may be more appropriate and less threatening in some environments. By developing a relationship of mutual confidence with a witness, the investigator is more assured of
+a free flow of information, ideas and opinions. According to the ICAO Manual of Aircraft Accident Investigation,
+“a philosophy of interview rather than interrogation is desirable in the questioning of witnesses by the
+investigator.”
+
+Control
+It is imperative that the investigator control the interview. Under certain circumstances, a witness may wish to
+be accompanied by another person for support — a parent may wish to be present during the interview of a
+child, survivors may wish to have their spouse present, a crew member may want a lawyer or union
+representative in attendance — and this request should be accommodated. Control becomes a difficult task
+when third parties are present, but an early understanding of the ground rules as specified by the investigator
+should minimize disruptions. Before an interview begins, it should be clear to and agreed upon by all parties
+that the attendance of a third party, other than an expert assisting the investigator, will only be considered at
+the request of the witness; that the investigator is the only person to direct questions to the witness; that
+questions provided in writing by other parties in attendance may be given to the investigator and, if accepted,
+will be used at an appropriate time; and that the investigator maintains the right to prohibit certain individuals
+from attending when their attendance could inhibit an effective interview.
+
+Tape recorder
+A tape recorder is a valuable tool. It allows the investigator to focus full attention on what the witness has to
+say; it provides a complete and accurate record of what was said; and it allows the statement to be played
+back. The investigator should be prepared for witnesses who are reluctant to have their statements recorded.
+In such cases, it will be necessary to explain that the tape recorder is there to allow the interview to be
+conducted more quickly and to ensure accuracy; the fact that the tape recorder provides a good record and
+eliminates the need to possibly re-interview a witness may be used as an argument in defence of its use.
+Reluctance disappears quickly if the recorder is used unobtrusively. Where there is reason to believe that the
+reluctance will not dissipate, the investigator will have to use a different method, such as note-taking; those who
+subscribe to the team approach will be able to use this method best — one member asks questions and
+another takes notes.
+
+Structure
+Effective interviews are characterized by a logical structure designed to maximize the quality and quantity of
+relevant information. The interview comprises four basic parts — the plan, the opening, the main body, and
+the closing — each with a specific purpose. In cases where there are a large number of survivors, a list of
+questions to be asked of every survivor should be prepared so that a comparison for reliability can be made
+at a later date.
+
+Prior to interviewing a witness, the investigator needs to define the general objectives of the interview, be
+aware of what some of the obstacles to achieving those objectives might be, and understand the expectations
+of the witness. The investigator should have some knowledge of the person being interviewed and should
+determine questions to be asked based on that knowledge. The sequencing of questions and the placement
+of the tougher questions can be considered at this step. Many witnesses, such as next-of-kin, have a legitimate
+requirement for information about the occurrence. The investigator should preplan the information which will
+be released to the witness at the appropriate moment in the interview.
+Preparing a list of questions that has to be rigorously followed is not the purpose of the planning step;
+rather it is the time to ensure that all areas of concern will be addressed during the interview.
+
+Most witnesses are probably being interviewed by an investigator for the first time. They will be apprehensive
+and may have misgivings about the interview and its end result. It is important, therefore, to eliminate as much
+of their uncertainty as possible. To do so, the investigator should give each witness a good explanation of the
+investigator’s role, the witness’s role and rights (including advising the witness who will have access to the transcript), the purpose of the interview, and the interview process. Witnesses should be made aware that their
+participation is important in the determination of cause and the prevention of a recurrence.
+The main body
+The right question asked in the right way at the right time is a powerful tool; it focuses on the important
+information; it terminates unproductive conversation; it helps people to concentrate their thoughts; and it allows
+the interview to flow smoothly.
+Often the easiest and most effective way to begin an interview is with a free recall type question, wherein
+witnesses are allowed to tell their story without interruption. The investigator should be attentive to what is
+being said and should refrain from any gestures or mannerisms that may lead witnesses. This approach is nonthreatening, it allows witnesses to believe that what they have to say is important, it begins to establish a
+rapport between the investigator and the witness, and it gives the investigator a baseline of uncontaminated
+information.
+When it is apparent that a witness has nothing further to say, the investigator can begin to question in more
+detail. However, there is no need to change the approach — the investigator can begin the questioning for each
+specific topic with a general question, becoming more specific as the witness becomes more specific with the
+answers. By getting witnesses to co-operate in a general way, the investigator increases the likelihood that they
+will subsequently co-operate in more specific ways.
+There are various types of questions, each of which will elicit a different type of response. The general or
+“open” question is the least leading and allows witnesses to answer in their own way and to formulate opinions
+as they see fit. With next of kin, a question such as “I didn’t know your son; I wonder if you would tell me about
+him?” achieves the same result as a free recall question — witnesses begin to talk about something with which
+they are familiar and which is non-threatening. Often witnesses will begin to answer a question before it is fully
+asked; investigators can take advantage of this by using open-ended or trailing-off questions (e.g. “You said
+earlier that your training was …”), which can evoke rapid and accurate descriptions of the subject matter. They
+also lead to more witness participation.
+
+The open question may not produce exactly the answer expected, and it may be appropriate for the
+investigator to redirect witnesses by means of a supplementary question which is more specific. There is a
+caution, however, that should be acknowledged when asking more specific questions — the more specific the
+question becomes the more likely it is to lead witnesses, possibly pressuring them to remember something that
+they do not know or did not observe. “Was the pilot fatigued?” is leading, in that it contains a possible answer
+and thus contaminates the information; it would be better to ask the witness to “describe the pilot’s physical
+condition and mental outlook toward the job recently”. “How proficient was the pilot at single-engine
+go-arounds?” uses a “marked” word (proficient) and effectively eliminates any neutrality that the investigator
+may be trying to achieve with the question. By using unmarked words and by setting the stage with a series
+of questions, the investigator can obtain the information without contaminating the response — “What is the
+policy for practising single-engine go-arounds?” followed by “When was the last time the pilot practised this
+procedure?” and ending with “Describe the procedure used by the pilot during the last practice session”. This
+approach is neutral and does not lead the witness.
+The “closed” question (one evoking a “yes” or “no” response), produces limited information and should be
+avoided, unless specifically intended. “Did your husband talk to you about the problems he was having with
+the chief-pilot?” “Was the co-pilot uncomfortable about flying into that airport because she had not flown that
+route before?” “Did the captain and first officer have problems in working together as a crew?” are all questions
+that can elicit a yes or no response, and the investigator will have to try another tactic to get more complete
+responses. The investigator may be more successful by phrasing the questions as follows — “How did your
+husband feel about flying with this company?” “You mentioned that the co-pilot was not comfortable about flying
+into that airport, why not?” “Describe the captain and co-pilot’s working relationship”.
+Occasionally, the investigator will have to ask questions which are more personal in nature and thus require
+an indirect approach. For example, the investigator believes that the deceased pilot was under a great deal
+of domestic stress because of marital problems; asking the pilot’s spouse “Was there anything that may have
+been upsetting your husband on the day of the accident?” or “Did you notice any change in your husband’s
+behaviour in the recent past?” will increase the chance of getting closer to the truth of the matter. The indirect
+approach in delicate situations also eliminates the possibility of bringing the interview to an abrupt end as may
+be the case with a more direct question such as “Were you and your husband having marital problems”?
+Questions should be brief, clear, and unambiguous. They should be relevant to the information required
+and be presented one at a time. Jargon and terminology that may confuse or intimidate witnesses should be
+avoided. Some witnesses who have had difficulty recalling events benefit from hearing the tape recording of
+their initial description of the occurrence. While listening to the account they suddenly recall forgotten
+information. Near the end of an interview, witnesses should be asked if they have any other information to add
+or if they have any questions.
+The closing
+The closing is the time to summarize the key points and to verify understanding of the information obtained;
+to assure the witness that the interview has been valuable; to establish the availability of the witness at a future
+date should that be necessary; and to indicate the availability of the investigator should the witness wish to
+provide additional information or enquire about the progress of the investigation.
+
+Assessment
+None of the information gained in an interview should be accepted at face value. Issues such as health can
+be verified against medical records; fatigue against work schedules; attitudes toward management, training
+
+
+and maintenance against interviews with family members, friends and colleagues, etc. By comparing the
+information gathered during interviews to information gleaned from other sources, the investigator will be able
+to piece together the puzzle more accurately and establish the credibility of various witnesses. Weight factoring
+of interview information and matrix evaluation of information obtained from several witnesses are effective
+methods of quantifying and qualifying that information.
+In assessing the validity and significance of the information, the investigator should remember that witnesses’ portrayals of facts are influenced by personal biases — so too are the investigator’s. One example of
+bias is the “halo effect”, which occurs when an investigator forms a global impression (either positive or
+negative) of a person, based on one characteristic that biases the interviewer’s assessment of the other
+person’s ideas. For example, a seemingly comfortable, self-assured person may given more credibility than
+is warranted.
+In summary, an interview is a dynamic event conducted in real time; planning, experience and responsiveness on the part of the interviewee are all keys to a successful outcome. While re-interviews are possible, there
+is no substitute for the effective first interview.
+
+Physical — characteristics of the individual
+Physical characteristics
+
+Sensory limitations
+
+Other physical limitations
+
+Size
+Weight
+Strength
+Age
+Sensory threshold (vision/visual)
+Hearing
+Vestibular (inner ear)
+Proprioception (sense receptors — muscles/joints)
+Smell
+Touch
+Kinaesthetic (muscle movement)
+“G” tolerance
+
+Attention
+
+Attitudes
+
+Physiological — the person’s well-being
+Health/lifestyle
+
+Fatigue
+
+Drugs
+
+Alcohol
+Incapacitation
+
+Decompression/diving
+Other physiological
+limitations
+
+Disease
+Fitness
+Diet
+Obesity
+Age
+Stress
+Smoker (heavy)
+Pregnancy
+Blood donation
+Other predisposing condition
+Fatigue — acute
+Fatigue — chronic
+Fatigue — skill
+Fatigue — other
+Crew rest
+Sleep deficit/disruption
+Other sleep disorder
+Circadian dysrhythmia (jet lag)
+Medication —over-the-counter
+Medication — prescription
+Drugs — illicit
+Other stimulants (coffee,
+cigarettes)
+Alcohol— impairment
+Alcohol — hangover
+Alcohol — addiction
+Carbon monoxide poisoning
+Hypoxia/anoxia
+Hyperventilation
+Loss of consciousness
+Motion sickness
+Nauseating fumes
+Toxic fumes
+Other medical
+Decompression
+Trapped gas effects
+Underwater diving
+
+Information processing
+
+Experience/recency
+
+Knowledge
+Training
+
+Planning
+Mental state
+
+Personality
+
+Workload
+
+Psychological — the person’s mental well-being
+Perceptions/illusions
+
+Situational awareness
+Disorientation — spatial
+Disorientation — visual
+Disorientation — temporal
+Disorientation — geographic (lost)
+
+Other psychological
+limitations
+
+53
+
+Disorientation — other
+Vertigo
+Illusion — visual
+Illusion — vestibular
+Attention span
+Inattention
+Distraction
+Channelized attention
+Fascination
+Vigilance
+Attention — other
+Motivation
+Attitude
+Habituation
+Boredom/monotony
+Complacency
+Mind set/expectancy
+False hypothesis
+Get-home-itis
+Confidence — in A/C
+Confidence — in equipment
+Confidence — self
+Attitudes — other
+Mental capacity
+Decision-making
+Judgement
+Memory
+Forgetting
+Co-ordination/timing
+Information processing — other
+Experience — in position
+Experience — on instruments
+Experience — on A/C type
+Experience — total A/C
+Experience — other
+Recency — in position
+Recency — on instruments
+Recency — on A/C type
+Recency — on aerodrome/route
+Recency — other
+Competence
+Skill/technique
+Airmanship
+Training — initial
+Training — on-the-job
+Training — ground
+Training — flight
+Training — recurrent
+Planning — pre-flight
+Planning — in-flight
+Emotional state
+Anxiety
+Apprehension
+Panic
+Arousal level/reactions
+Mental pressure — self stress
+Type — aggressive
+Type — assertive
+Type — non-assertive
+Type — other
+Task saturation
+Underload
+Situational awareness
+Prioritization
+
+Psychosocial — the person’s interaction
+with the non-work community
+Off-duty problems
+
+Other psychosocial
+limitations
+
+Mental pressure
+Interpersonal conflict
+Personal loss
+Financial problems
+Significant lifestyle changes
+Culture
+Family pressure
+
+Human-environment (internal) — the interaction
+of the person with the environment in the
+immediate work area
+Environment
+
+THE INTERFACES BETWEEN INDIVIDUALS
+AND THEIR WORK
+Between people — the interaction of the person
+with other persons in the workplace
+Oral communication
+
+Visual signals
+
+Crew interactions
+
+Controllers
+
+Passengers
+Other interaction
+
+Misinterpretation
+Phraseology
+Language barrier
+Readback/hearback
+Other communications
+Signage
+Ground/hand signals
+Body language
+Data link
+Crew supervision
+Crew briefing
+Crew co-ordination
+Crew compatibility
+Crew resource management
+Crew task assignment
+Crew — other behaviour
+Controller supervision
+Controller briefing
+Controller co-ordination
+Controller — other
+Passenger behaviour
+
+Human-machine — the interaction of the person
+with the equipment at the workstation
+Equipment
+
+Other interaction
+
+Written information
+
+Computers
+Automation
+
+Other human-software
+interaction
+
+Human-environment (external) — the interaction
+of the person with the weather and the
+environment outside the immediate work area
+Weather/geography
+
+Illusion
+
+Manuals
+Checklists
+Publications
+Regulations
+Maps and charts
+NOTAMs
+Standard operating procedures
+Computer software
+User-friendliness
+Operator workload
+Monitoring task
+Task saturation
+Situational awareness
+Skill maintenance
+
+Weather visibility
+Turbulence
+Infrastructure
+Time of day
+Lighting/glare
+Other air traffic
+Windblast
+Somatogravic
+Somatogyral
+The leans
+Coriolis
+Empty field myopia
+White-out
+Flicker vertigo
+Aerodrome — landing illusions
+Illusions — other
+
+Worker-management — the interaction of
+the worker with the management
+Personnel
+
+Instrument/controls design
+Instrument/controls location
+Workspace layout
+Workspace standardization
+Personal comfort
+Motor workload
+Information displays
+Obstacles to vision
+Alerting and warnings
+Eye reference position
+
+Human-system support — the interaction of the person
+with the supporting systems for the workplace
+
+Heat
+Cold
+Ambient pressure
+Illumination
+Glare
+Acceleration
+Effect of noise
+Noise interference
+Vibration
+Air quality
+Humidity
+Pollution/fumes
+Ozone
+Radiation
+Other physical working conditions
+
+Supervision
+Regulatory requirements
+
+Labour relations
+Pressures
+Other human-environment
+interaction
+
+Personnel recruitment
+Personnel staffing
+Personnel training
+Personnel policies
+Remuneration/incentives
+Personnel requirements
+Personnel scheduling
+Crew pairing
+Seniority
+Resource allocation
+Operational support
+Operational control
+Instructions/directions/orders
+Managerial operating pressure
+Operational supervision
+Quality control standards
+Qualification — in position
+Qualification — on type
+Certification
+Medical certificate
+Licence/rating
+Non-compliance
+Infraction history
+Other regulatory factors
+Employee/management relations
+Industrial action
+Union/professional group
+Mental pressure — operational
+Morale
+Peer pressure
+
+
+The most useful sources of supporting factual information come from reference and data bases directly related
+to the aviation operational environment, because these can be most easily generalized to the factual data
+pertaining to an aviation accident. The data from these data bases can be used (with some caution) to answer
+the question “What are the frequencies of such occurrences or behaviours?” (i.e. how many accidents or
+incidents have involved the same performance shortcomings?). Of course, specific information about the
+sample characteristics of the data bases being examined, and about the exposure rates of aircraft or pilots in
+similar situations is necessary in order to reach any conclusions about probabilities of similar accidents or
+incidents occurring again. Some examples of such data sources follow.
+
+
+Manufacturer accident/incident
+data bases
+Several aircraft manufacturers maintain their own accident/incident data bases for their own use and for that
+of their customers. Some of these data bases are available to the public. One example of manufacturer
+accident/incident data bases which may be of interest to the investigator follows.
+
+base of all commercial jet aircraft accidents (excluding Russian manufactured or operated aircraft and
+military operators of commercial-type aircraft). Accident data are obtained from government accident
+reports, operators, manufacturers, and various government and private information services. Accident
+selection essentially corresponds to the U.S. National Transportation Safety Board’s (NTSB) accident
+definition. Variables of interest in this data base are phase of flight (workload considerations), aircraft type
+(design) cause factors (including primary flight crew).
+
+Accident/incident
+voluntary reporting systems
+Much valuable Human Factors information is available from largely confidential reporting systems used by
+several States to collect accident and incident information from involved pilots, controllers and other aviation
+personnel. These reporting systems are voluntary (the person experiencing, or with knowledge of, the incident
+is under no obligation to make a report), and usually some amount of protection is granted to the reporter, who
+in most cases has committed an unintentional error while flying or controlling an aircraft. The reporter may be
+guaranteed some degree of immunity from legal action (e.g. suspension or revocation of pilot licence) in
+exchange for which the agency collecting the reports is afforded an insightful look at the conditions underlying
+the incident. This kind of information is nearly impossible to obtain after an accident or incident using normal
+investigative methods, either because the pilot is deceased or because the reporter (pilot, controller or other)
+is not forthcoming for fear of reprisals from the government licensing agency, police or employer.
+In general, reports from involved personnel, whether gathered by an investigator post-incident or reported
+by the involved person to a confidential reporting system, are vulnerable to untruths and inconsistencies and
+should be considered by the investigator as just another piece of information to be weighed and validated.
+Confidential reporting systems are susceptible to misinterpretation if the investigator attempts to make
+statistical inferences about the data, incorrectly assuming the sample in this type of data base is comparable
+to the sample in a State investigative accident data base such as the ICAO ADREP data base or the NTSB
+data base in the United States.
+Confidential reporting systems contain only information voluntarily reported. Depending upon the level of
+immunity accorded and upon the types of errors for which such immunity is granted, levels of reports for certain
+types of errors may be inflated. For example, in the United States’ Aviation Safety Reporting System (ASRS),
+which is jointly run by the Federal Aviation Administration (FAA) and the National Aeronautics and Space
+Administration (NASA), a large percentage of reports involve deviations from assigned altitudes, because pilots
+who report these deviations to ASRS are protected from suspensions of their licences (the common
+punishment for such a deviation).
+Therefore, the investigator who chooses to use data from confidential reporting systems should consult
+administrators of these data bases to understand the significance of the data. As with the accident/incident data
+bases, these data can be very helpful as long as the investigator understands the scope and limitations of the
+data base.
+
+Notwithstanding the fact that human performance investigators need not be specialists in human performance,
+generalist investigators must possess an over-all awareness and understanding of human performance concepts and principles, and their application to aviation, if they are to be successful human performance investigators. To this end, it is essential that they all receive a minimal level of relevant training. Given the requisite
+training, the experience accident investigator should be able to conduct all but the most specialised aspects
+of the human performance investigation.
+Human performance investigation training should include guidance on the interdisciplinary nature of the
+human performance investigation, fundamental areas of examination, data that should be collected, data
+sources, data collection methods including interview techniques, and analytical techniques. Training should
+also include general guidance on recommended reference material and on the type of specialists that are
+available to assist in the investigation of human performance, where they can be found and when it would be
+appropriate to employ them.
+Several sources of general education courses in human performance concepts exist. They include both
+educational institutions and private contractors. New programmes are being constantly developed and to the
+extent that ICAO is aware of new programmes, the Organization will provide information to those interested.
+A list of example courses and sources can be found in Human Factors Digest No. 1 — Fundamental Human
+Factors Concepts.
+Courses which focus specifically on the investigation of human performance are less prevalent. Information
+on course availability should be sought from national accident investigation agencies.
+Practices is regarded as desirable in the interest of
+safety, regularity or efficiency of international air
+navigation. Knowledge of any differences between the
+national regulations or practices of a State and those
+established by an International Standard is essential to
+the safety or regularity of international air navigation.
+In the event of non-compliance with an International
+Standard, a State has, in fact, an obligation, under
+Article 38 of the Convention, to notify the Council of
+any differences. Knowledge of differences from
+Recommended Practices may also be important for the
+safety of air navigation and, although the Convention
+does not impose any obhgation with regard thereto, the
+Counci\ has invited Contracting States to notify such
+differences in addition to those relating to International
+Standards .
+Procedures for Air Navigation Services (PANS) are
+approved by the Council for world-wide application.
+They contain, for the most part, operating procedures
+
+regarded as not yet having attained a sufficient degree
+of maturity for adoption as International Standards and
+Recommended Practices, as well as material of a more
+permanent character which is considered too detailed
+for incorporation in an Annex, or is susceptible to
+frequent amendment, for which the processes of the
+Convention would be too cumbersome.
+Regional Supplementary Procedures (SUPPS) have a
+status similar to that of PANS in that they are approved
+by the Council, but only for application in the respective
+regions. They are prepared in consolidated form, since
+certain of the procedures apply to overlapping regions
+or are common to two or more regions.
+
+The following publications are prepared by authority
+of the Secretary General in accordance with the
+principles and policies approved by the Council.
+Technical Manuals provide guidance and information in amplification of the International Standards,
+Recommended Practices and FANS, the implementation of which they are designed to facilitate.
+Air Navigation Plans detail requirements for facilities and services for international air navigation in the
+respective ICAO Air Navigation Regions. They are
+prepared on the authority of the Secretary General on
+the basis of recommendations of regional air navigation
+meetings and of the Council action thereon. The plans
+are amended periodically to reflect changes in requirements and in the status of implementation of the
+recommended facilities and services.

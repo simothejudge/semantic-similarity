@@ -1,0 +1,82 @@
+ 1 at the time of the event, the directive sma opr 003`` directive for the service of air force flight crews'' defined only the general outlines of crew employment.
+L#
+
+ 1*1 the directive left to the local commands to draw up specific guidelines to apply to their subordinate units.
+L#
+
+ 2 the local commands had not yet developed their own guidelines resulting in a legal vacuum where it was not defined the authority that could derogate the directive.
+L#
+
+ 2*2 the local commands neither defined the case studies of derogation nor any associated mitigating risk measures.
+S#
+
+ 3 the directive did not provide other limiting factors such as operating without proper assistance, or operating under severe environmental conditions and high relative humidity.
+S#
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Written information  --> publications (SYN: directive) 
+HFACS: 
+				- OP003 PROCEDURAL GUIDANCE/PUBLICATIONS
+				- OR008 INFORMATIONAL RESOURCES/SUPPORT
+				
+ICAO:
+S --> LIVEWARE-SOFTWARE INTERFACE --> Written information  --> publications (SYN: limiting factors) 
+HFACS: 
+				- OP003 PROCEDURAL GUIDANCE/PUBLICATIONS
+				- OR008 INFORMATIONAL RESOURCES/SUPPORT
+				
+
+ 4 the mission was planned with two of the flight legs with shorter rest period between them, than as expected for normal operations.
+S#
+
+ 5 the crew was not properly composed for the complexity of the mission resulting in an extreme over task for the aircraft commander.
+L#
+
+ 6 an inappropriate decision was the choice of the aircraft by the tasking unit which, the aircraft although adequate as passenger capacity, it was not definitely the most suitable with respect to the distance to cover.
+H#
+
+ 7 the piaggio p180 aircraft has not the apu and therefore, it can not maintain the cabin conditioning during stops on the ground, resulting in constant temperature changes for the crew.
+E#
+ICAO:
+E --> INFRASTRUCTURES--> At the gate  --> apu 
+HFACS: 
+				- OR002 AIRFIELD RESOURCES
+				
+
+ 8 operations took place under conditions of high temperatures with high humidity resulting in a significant psychophysical stress for the crew.
+E,L#
+ICAO:
+E --> INTERNAL --> humidity 
+HFACS: 
+				- PE106 THERMAL STRESS COLD 
+				- PE107 THERMAL STRESS HEAT
+				
+ICAO:
+L --> PHYSIOLOGICAL FACTORS --> Fatigue  --> fatigue (SYN: psychophysical stress) 
+HFACS: 
+				- PC306 FATIGUE ( PC307)
+				- AVXXX VIOLATIONS
+				
+
+ 9 the physical and mental fatigue of the crew, noticeable throughout the mission, combined with the desire to return home get-home-it-is syndrome did not allow a clear and objective decision-making process.
+L#
+ICAO:
+L --> PHYSIOLOGICAL FACTORS --> Fatigue  --> fatigue 
+HFACS: 
+				- PC306 FATIGUE ( PC307)
+				- AVXXX VIOLATIONS
+				
+ICAO:
+L --> PHYSIOLOGICAL FACTORS --> Fatigue  --> fatigue (SYN: mental fatigue) 
+HFACS: 
+				- PC306 FATIGUE ( PC307)
+				- AVXXX VIOLATIONS
+				
+
+ 10 a not proper accommodation combined with the missed dinner led the crew to start the flight back in a condition of physical stress already in place.
+L#
+ICAO:
+L --> PHYSIOLOGICAL FACTORS --> Nutritional factors  --> hours since last meal (SYN: missed dinner) 
+HFACS: 
+				- PP204 NUTRITION
+				- AVXXX VIOLATIONS
+				

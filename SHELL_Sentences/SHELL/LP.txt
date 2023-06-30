@@ -1,0 +1,72 @@
+# PHYSIOLOGICAL FACTORS --> Fatigue --> 49
+under psychophysical stress
+experience mental fatigue
+significant psychophysical stress for crew
+physical mental fatigue crew
+extreme over task for aircraft commander
+pilot under much stress
+# PHYSIOLOGICAL FACTORS --> Fatigue Duty: duty hours --> 57
+crew have report for duty relieve
+# PHYSIOLOGICAL FACTORS --> Fatigue Sleep: crew rest --> 60
+second last flight for flight crew day
+crew good physical condition rest
+# PHYSIOLOGICAL FACTORS --> Sleep deficit --> 63
+pilot do rest enough
+commander do not sleep well previous night
+trial for test
+trial for testing
+# PHYSIOLOGICAL FACTORS --> Illusions Visual: black hole --> 81
+land classic black hole approach during night landing
+# PHYSIOLOGICAL FACTORS --> Illusions Visual: liner vection --> 88
+visually induced illusion cause observe pattern move linear direction
+# PHYSIOLOGICAL FACTORS --> Nutritional factors: hours since last meal --> 105
+last meal
+miss dinner
+miss lunch
+do not eat for long time
+# PSYCHOLOGICAL FACTORS --> Attention: inattention --> 115
+lack vigilance radar surveillance acc officer
+do not detect climb beyond authorised limit
+do detect problem
+controller do not notice problem
+# PSYCHOLOGICAL FACTORS --> Attention: vigilance --> 119
+lack vigilance surveillance
+# PSYCHOLOGICAL FACTORS --> Attention: confidence --> 127
+false belief controller tower acc controller
+pilot do not contact controller for overconfidence
+# PSYCHOLOGICAL FACTORS --> Expectations: false hypothesis --> 134
+tower controller controller acc have false assumption flight actually climb for authorise level
+# PHYSIOLOGICAL FACTORS --> Expectations: get-home-it-is --> 135
+desire return home syndrome
+# PSYCHOLOGICAL FACTORS --> Experience in aerodrome --> 140
+commander have not have occasion fly city before
+first month commander airline
+first officer not experience
+first officer have recently hire airline
+first officer have only fly line for month
+instrument approach during night hour unfamiliar airport
+operational experience aircraft not sufficient
+# PSYCHOLOGICAL FACTORS --> Experience in aircraft type --> 141
+commander have limit experience provider aircraft type
+# PHYSIOLOGICAL FACTORS --> Experience on route --> 143
+begin new schedule another route
+# PSYCHOLOGICAL FACTORS --> Information Processing: decision making --> 149
+commander have elect delay departure
+commander decide add contingency fuel depart
+# PSYCHOLOGICAL FACTORS --> Information Processing: judgement --> 153
+commander decision delay create number additional delay for subsequent flight
+# PSYCHOLOGICAL FACTORS --> Knowledge --> 161
+controller do not notice aircraft opposite direction
+aircraft reach controller do not notice
+crew have limit knowledge airport
+difficulty understanding failure
+difficulty solve failure
+# PSYCHOLOGICAL FACTORS --> Knowledge: procedures --> 162
+during evacuation procedure aircraft
+first officer do not make required callouts during approach
+# PSYCHOLOGICAL FACTORS --> Knowledge: competence --> 160
+commander neglect consult performance chart aircraft flight manual
+# PSYCHOLOGICAL FACTORS --> Training --> 221
+training record first officer indicate not standard performance
+crew not adequately trained
+crew have few flight hour aircraft

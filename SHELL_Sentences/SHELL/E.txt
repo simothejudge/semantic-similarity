@@ -1,0 +1,55 @@
+# External --> Other factors : other air traffic --> 26
+At this moment both aircrafts were at the same flight level in opposite directions with a separation of 4,55 nm
+Separation between the aircrafts was too little
+# External --> Infrastructure Aerodrome: runway characteristics --> 8
+the runway was heavily contaminated with water
+the aircraft came to rest in the mud close to the end of the runway
+the runway is relatively wide 
+the runway has a steep downward slope toward west
+there were strips on the runway
+the runway was not compliant
+a runway poorly lit
+a short, wide and steeply sloping runway
+poor construction of runway pavement 
+lack of adequate drainage on the runway
+poor pavement characteristics
+damage for the overrun
+the runway is served by an unreliable non directional beacon ndb
+strip not adequate mantain
+# External --> Infrastructure Aerodrome: markings, lighting, obstruction --> 6
+runway lighting is low intensity
+there are no approach lights or visual approach aids
+# External --> Infrastructure: at the gate --> 10
+the aircraft has not the apu 
+the aircraft can not maintain the cabin conditioning during stops on the ground
+# External --> Infrastructure Maintenance: procedures and practice --> 19
+maintenance and inspection of the ndb was not in accordance with prescribed procedures
+# External --> Other: water features obstacles --> 29
+the aircraft hydroplaned
+the aircraft overran the end of the runway slightly above taxiing speed
+at the moment of the event there was standing water on the runway
+# External --> Weather: visibility and ceiling --> 34
+predominant weather for a summer day is low stratus and fog
+when the air warms, fog develops into convective cloud
+severe thunderstorms are common in the afternoon
+the whole region where the city is situated is thunderstorm country during summer
+thunderstorms throughout the entire region
+it had been a typical summer afternoon
+it was night time and visibility was poor
+not enough light to have spatial orientation
+the airport had been affected by thunderstorms during the early afternoon
+the day of the event it rained heavily at the airport
+# External --> Weather: actual and forecast --> 35
+the 48 hours advanced weather forecast were not available
+there were thunderstorms in the vicinity of the airport
+there was a persistent drizzle
+strong rainstorms
+pouring and raining heavilly
+# External --> Weather: turbulence --> 32
+strong wind and gust
+presence of thermals
+wind blast
+# Internal --> Weather: Humidity --> 43
+operations took place under conditions of high temperatures with high humidity
+humid weather
+high temperatures and high humidity

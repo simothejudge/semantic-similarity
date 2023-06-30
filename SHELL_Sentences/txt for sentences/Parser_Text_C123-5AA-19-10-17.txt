@@ -1,0 +1,263 @@
+ test 19 ottobre 2017 accident scenario as.
+
+ as1 at sollieres city airport in the late hours of a summer friday evening, july the 28th 2000 at 21h25 while landing, a fairchild c123 multi engines jet piston transport with four crew members and 65 passengers on board, overran the westerly end of the runway.
+E#
+
+ as2 the runway was heavily contaminated with water.
+E#
+
+ as3 the aircraft came to rest in the mud a short distance beyond the end of the runway.
+E#
+
+ as4 there were no injuries to crew or passengers, as5 and there were no large damages to the aircraft as a consequence of the overrun.
+LP#
+
+ as6 however, the rescue service was particularly slow to intervene.
+LO#
+
+ as7 then during the evacuation procedures of the aircraft a fire started jeopardizing life of survivors two passengers remained wounded and subsequently destroying the aircraft wrench.
+LP#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> procedures 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				- AE103 PROCEDURAL ERROR
+				
+
+ as8 sollieres city is a popular summer resort.
+E#
+
+ as9 the predominant weather for a typical summer day is low stratus and fog in the early morning, which gradually develops into convective cloud as the air warms.
+E#
+
+ as9#1 severe thunderstorms are common in the early afternoon and persist until the late evening hours.
+E#
+
+ as9#2 the whole region where sollieres city is situated is? thunderstorm country? during summer.
+E#
+
+ as10 the runway15-33 at sollieres is 4520 feet long and 100 feet wide.
+E#
+
+ as10# 1 the runway is relatively wide, it has a steep downward slope toward west.
+E#
+
+ as11 the runway is served by a non directional beacon ndb, which is unreliable during stormy weather.
+E#
+
+ runway lighting is low intensity, and there are no approach lights or visual approach aids.
+E#
+ICAO:
+E --> INFRASTRUCTURES--> Aerodrome  --> lighting 
+HFACS: 
+				- OR002 AIRFIELD RESOURCES
+				
+ICAO:
+E --> INTERNAL --> heat (SYN: intensity) 
+HFACS: 
+				- PE106 THERMAL STRESS COLD 
+				- PE107 THERMAL STRESS HEAT
+				
+ICAO:
+E --> INFRASTRUCTURES--> Aerodrome  --> approach aids 
+HFACS: 
+				- OR002 AIRFIELD RESOURCES
+				
+
+ as12 landing at sollieres city airport is a classic black hole approach during night landings.
+E#
+
+ as13 the flight had originated at romainville theairline?s main base, 400 km away.
+S#
+
+ this was the second to last flight for the flight crew that day.
+LP#
+
+ as14 the crew had reported for duty at 10h30, then was to be relieved at 19h30.
+LP#
+
+ as15 the crew had been flying a different schedule for the last three weeks.
+LO#
+
+ as15#1 this was the beginning of a new four days? schedule on another route.
+LO#
+
+ as16 it had been a typical summer afternoon, with thunderstorms throughout the entire region.
+E#
+
+ as16#1 sollieres city had been affected by thunderstorms during the early afternoon.
+E#
+
+ as17 at sollieres city airport, the 48 hours advanced weather forecast wer not available.
+E#
+
+ as18 the commander had elected to delay the departure waiting the rain drizzle at sollieres stopped.
+E#
+
+ as19 the flight schedule at departure airport was very tight.
+LO#
+
+ as20 the commander's decision to delay created a number of additional delays for subsequent flights.
+LP#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Information Processing  --> judgment (SYN: decision) 
+HFACS: 
+				- AE2XX JUDGEMENTAND DECISION MAKING ERRORS
+				
+
+ as21 the dispatcher working the flight did not bring to the flight crew's attention the need to consider a contaminated runway operation at sollieres, with the c123 aircraft, and did not review the landing performance limitations with the crew.
+LP#
+
+ as22 after a long delay, the commander decided to add contingency fuel and depart.
+LP#
+
+ as23 flight time was about 1h20m.
+LP#
+
+ as24 vmc conditions were present at sollieres, although there were thunderstorms in the vicinity of the airport, as well as a persistent drizzle.
+E#
+
+ as25 with no other reported traffic, the commander was cleared for a night visual approach.
+LP#
+
+ as26 after touchdown, the aircraft hydroplaned and overran the end of the runway slightly above taxiing speed.
+E#
+
+ if1 the commander was a normally experienced pilot.
+LP#
+
+ if1#1 the commander had been with the airline for many years, accumulating several thousand hours of flying time as a first officer in b737500 and md80 jet aircraft.
+LP#
+
+ if2 however, the commander had limited experience with the c123 provider aircraft type.
+LP#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Experience/recency  --> experience 
+HFACS: 
+				- SP003 LIMITED RECENT EXPERIENCE
+				- SP004 LIMITED TOTAL EXPERIENCE
+				- SI003 LOCAL TRAINING ISSUES / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+
+ if2#1 the commander had not had the occasion to fly into sollieres before, because the larger aircraft types he had been flying previously did not operate into sollieres city airport.
+S#
+
+ if2#2 this was his first month as a commander in airline.
+LP#
+
+ if2#3 the commander was awell-balanced individual, with no personal or professional behavioural extremes.
+LP#
+
+ if3 the first officer was not very experienced.
+LP#
+
+ if3#1 the first officer had recently been hired by the airline and had only been flying the line for about a month.
+LP#
+
+ if3#2 the first officer had flown into sollieres on two other occasions with another commander, but only during daylight hours.
+LP#
+
+ if3#3 the training records of the first officer indicated standard performance during his insertion into the operations of the airline.
+LP#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Training  --> training 
+HFACS: 
+				- OP004 ORGANISATIONAL TRAINING PROCESS
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC401 LEARNING ABILITY/RATE
+				
+
+ if4 the day of the event it rained heavily at the airport.
+E#
+
+ if4#1 at the moment of the event there was standing water on the runway.
+E#
+
+ if5 readout of the aircraft flight recorders disclosed that the commander flew the approach with excess airspeed.
+H#
+
+ if5#1 it even resulted the airplane touching down smoothly, but well beyond the touchdown zone, and then hydroplaning off the end of the runway.
+E#
+
+ if6 the commander neglected to consult the performance charts in the aircraft flight manual for the correct landing distance on a wet contaminated runway.
+LP#
+
+ if7 the first officer did not make the required callouts during the approach.
+LP#
+
+ if8 the dispatcher failed to brief the commander on potential problems at the airport as required by company procedure.
+LP#
+
+ if9 inspection of the runway revealed poor construction of pavement and lack of adequate drainage.
+E#
+
+ if10 maintenance and inspection of the ndb was not in accordance with prescribed procedures.
+H#
+
+ if11 over the past month, other flight crews had reported on several occasions that the ndb ground aid had given erratic indications during instrument approaches.
+LP#
+
+ if12 the people of the airport staff organisation did not correct the ndb wrong indications.
+E#
+
+ if13 the airline agent at sollieres city airport did not reported to the dispatcher at headquarters that heavy rain had fallen.
+LP#
+
+ pc1 anon-precision instrument approach during night hours to an unfamiliar airport.
+E#
+
+ pc2 a runway poorly lit, short, wide and steeply sloping.
+E#
+
+ pc3 a poor runway pavement and poor drainage.
+E#
+
+ pc4 a lack of reliable information on the performance of the ndb.
+S#
+
+ pc5 a lack of reliable information about the wind conditions.
+E#
+
+ pc6 an arrival delayed by two hours, compromising crew duty time requirements.
+LP#
+
+ pc7 an aircraft not equipped with ground spoiler.
+H#
+
+ pc8 the crew was not adequately trained, as they had few flight hours on c123 aircraft.
+LP#
+
+ pc8#1 the crew had limited knowledge of the airport.
+LP#
+ICAO:
+L --> PSYCHOLOGICAL FACTORS --> Knowledge  --> knowledge 
+HFACS: 
+				- SI003 LOCAL TRAINING ISSUE / PROGRAMS
+				- PC405 TECHNICAL/PROCEDURAL KNOWLEDGE
+				
+
+ pc9 the firefighting and rescue services were not adequate.
+S#
+
+ pc10 pairing two pilots who were inexperienced in the type of aircraft.
+LO#
+
+ pc11 the crew did not practice hydroplaning technique.
+LP#
+
+ pc12 the line management and the regulatory authority failed to conduct adequate inspections of the airport infrastructures.
+LO#
+ICAO:
+L --> LIVEWARE-LIVEWARE INTERFACE --> Other members of the crew --> behaviour (SYN: conduct) 
+HFACS: 
+				- SP002 CREW TEAM COMPOSITION
+				
+ICAO:
+L --> WORKER-MANAGEMENT --> Regulatory agency  --> inspection 
+HFACS: 
+				
+
+ pc15 the airline management selected the c123 provider aircraft for this route out of marketing and cost considerations, despite its unsuitability for all weather operations at sollieres.
+H#

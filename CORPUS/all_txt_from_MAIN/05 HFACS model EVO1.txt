@@ -1,0 +1,544 @@
+MODEL
+
+Human Factors Analysis and Classification System
+Version 2.0 Jan 18
+
+Aviation Safety Class
+
+TABLE OF CONTENTS
+
+
+INTRODCUTION
+
+
+
+HFACS MODEL
+
+
+
+EXAMPLE OF CAUSATION FACTORS
+
+
+
+HOW TO USE HFACS MODEL
+
+Aviation Safety Class
+
+2
+
+INTRODUCTION
+
+
+The HFACS was developed by Scott Shappell (NTSB) and Douglas Wiegmann (US
+Navy) as a comprehensive framework for investigating and analyzing aspects of
+human behavior in aviation accidents.
+
+
+
+The reason model describes the aviation industry as a complex productive system
+whose product is the safe conduct of flight operations (airport, ATC operations)-
+
+
+
+Before complex productive activities can accomplish certain preconditions need to
+exist (such as well maintained equipment, well trained staff , etc-etc).
+
+
+
+In this model each aviation industry key persons (pilots, ramp staff, ATC officers,
+maintainers, etc)
+
+rarely are independently wealthy and work in highly structured
+
+Organizations that require effective management and careful supervision.
+
+Aviation Safety Class
+
+3
+
+INTRODUCTION
+ Even the best managers need guidance, personnel and money to perform their duty
+safely end effectively and safe rules to follow.
+ In most organizations the system function sufficiently well, but
+
+Model of incident
+causation
+
+what about the occasion where the cog wheels do not work and
+the system in not safe and efficient.
+
+ According to Reason model accidents occur when
+there are breakdown in the interactions among
+the components of a productive system.
+ The failures are depicted as holes in the barriers.
+ These failures degrade the integrity of the system
+making it more vulnerable to operational hazards
+and then susceptible to catastrophic failures.
+
+Aviation Safety Class
+
+4
+
+INTRODUCTION
+
+
+The HFACS model incorporates the Reason Incident Causation model, which forces
+investigation to focus attention to causal factors
+
+such as latent failures and
+
+active failures of a production system.
+
+
+To best describe such latent failures and active failures HFACS uses the Unsafe Acts
+taxonomy and modify slightly the pattern of incident causation.
+
+
+
+HFACS is based on 19 causal categories within 4 levels of human failures.
+
+
+
+These four levels of human failures are connected as follows: Organizational
+influences may lead to Unsafe supervision, this lack of supervision could lead to
+Preconditions for Unsafe acts, and ultimately lead to the Unsafe acts of
+operators.
+
+
+
+Within the unsafe acts level, there are errors and violations. These categories and
+levels allow the errors or causal factors to be coded into the model by means of
+special taxonomy, so that allowing comparison to be accomplished across the levels
+of HFACS.
+
+Aviation Safety Class
+
+5
+
+INTRODUCTION
+Latent Failures
+
+Latent Failures
+
+Latent Failures
+Active Failures
+
+In HFACS model, system failures are classified as either active or latent conditions.
+However, the exact nature of these failures or “holes” in the cheese have yet to
+identified and described by mean of unsafe acts taxonomy.
+Aviation Safety Class
+
+6
+
+INTRODUCTION
+HFACS is based on 5 fundamental “principles.”
+Principle 1: Aviation is similar in nature to other complex productive systems.
+As such, the framework commonly used to describe productive systems can also be used to
+understand flight operations. Using a systems approach also helps identify the underlying
+causes of accidents and provides a better understanding of how system components may
+interact to affect safety.
+
+Principle 2: Human errors are inevitable within productive systems.
+To err is human, and therefore we should strive to reduce the consequences of human
+errors rather than preventing them.
+
+Principle 3: Blaming an error at pilot is like blaming a mechanical failure on the aircraft.
+Aircrew often serve as the last barrier that stops a sequence of events from causing an
+accident. When errors do occur, they are often only a symptom of the system’s underlying
+problem.
+
+Principle 4: An accident, no matter how minor, is a failure of the system.
+Systemic problems are often the cause of aircrew error and we must search the system to
+determine “why” the errors occurred. We need to look at the entire sequence of events and
+the multiple factors that contributed to the accident.
+
+Principle 5: Accident investigation and error prevention go hand-in-hand.
+Searching for “why” an error occurred is not to reassign blame or liability, nor even to
+excuse the error, but to identify the underlying system deficiencies that might cause an
+accident to occur again. Prevention, not punishment, should be our goal.
+Aviation Safety Class
+
+7
+
+INTRODUCTION
+As mentioned earlier, Reason’s model of how humans contribute to the breakdown
+of safe flight operations has been incorporated into HFACS model.
+In HFACS model, system failures are classified as either active or latent conditions.
+However, the exact nature of these failures or “holes” in the cheese have yet to
+identified and described.
+In next sections, is provide a framework or taxonomy for identifying, classifying,
+
+and organizing active and latent failures with in the system. The framework is
+based upon the “The Taxonomy of Unsafe Operations”
+The taxonomy describes four levels of failure within the system which include:
+(a) organizational factors,
+(b) unsafe supervisory practices,
+(c) unsafe conditions of operators, and
+(d) the unsafe acts operators commit.
+
+Aviation Safety Class
+
+8
+
+INTRODUCTION
+ Theoretically if at least one Failure occurs at each level this can lead to an
+accident; it is therefore necessary to correct at least one of these levels
+to prevent the catastrophic event; and this can only be done through a
+preventive analysis of the various situations that the organization can
+face.
+ The HFACS model allows to analyze common trends between
+different realities and this method of analysis within the American
+armed forces allowed, for example, to detect that almost one third of the
+incidents involving marine aviation aircraft were related to violations
+
+routine of crews and staff; once this trend has been identified it has been
+possible to reduce it considerably.
+
+Aviation Safety Class
+
+9
+
+HFACS MODEL
+Rather than scrutinizing the failure of a single system component, we must
+take a step back and look at the entire sequence of events that lead to the
+accident.
+A systems perspective requires that we examine for failures throughout the
+entire system. After all, it is often the failure of multiple
+
+components that
+
+combined together to produce an accident.
+
+Aviation Safety Class
+
+10
+
+INTRODUCTION
+ The approach to aircraft accidents/incidents has changed dramatically in
+recent years thanks to Reason and Shappel & Weigmann's studies.
+
+ Both
+
+are
+
+considered
+
+to
+
+be
+
+the
+
+Causal
+
+Factors
+
+of
+
+aeronautical
+
+accidents/incidents not only the active failures of the last operator
+(Line Operations), but also the latent failure due to the wrong policies
+of the Top Management and the inadequacy of the Supervisors.
+
+ Other organizations such as FAA, NASA, USA DoD, NATO, IATA Airlines,
+etc; all have implemented the HFACS system by combining it with other
+previous
+
+analysis
+
+systems
+
+and
+
+giving
+
+rise
+
+to
+
+slightly
+
+different
+
+taxonomies.
+
+Aviation Safety Class
+
+11
+
+12
+
+HFACS MODEL 1
+
+UNSAFE
+ACTS
+
+Violations
+
+Errors
+
+Decision
+Errors
+
+Skill-Based
+Errors
+
+Perceptual
+Errors
+
+Routine
+
+Exceptional
+
+Acts are those factors that are most closely tied to the mishap, and can be
+described as active failures or actions committed by the operator that
+result in human error or unsafe situation.
+We have identified these active failures or actions as Errors and Violations
+.
+
+Aviation Safety Class
+
+13
+
+HFACS MODEL 2
+PRECONDITIONS
+FOR
+UNSAFE ACTS
+
+Personnel
+Factors
+
+Environmental
+Factors
+
+Physical
+Environment
+
+Technological
+Environment
+
+Conditions of
+Operators
+
+Crew Resource
+Mismanagement
+
+Personal
+Readiness
+
+individuals
+
+Adverse
+Mental
+States
+
+Adverse
+Physiological
+States
+
+Physical/
+Mental
+Limitations
+
+Preconditions are factors in a mishap if active and/or latent preconditions
+such as conditions of the operators, environmental or personnel factors
+affect practices, conditions or actions of individuals and result in human
+error or an unsafe situation.
+Aviation Safety Class
+
+14
+
+HFACS MODEL 3
+
+To give a reference to top level managerial aspects and relative
+latent errors.
+It was determined that a mishap event can often be traced back
+to the supervisory chain of command, then the unsafe
+supervision are a cause deriving from intermediate decisionmaking levels ("supervisors").
+
+Aviation Safety Class
+
+15
+
+HFACS MODEL 4
+
+ORGANIZATIONAL
+ORGANIZATIONAL
+INFLUENCES
+INFLUENCES
+
+Resource
+Management
+
+Organizational
+Climate
+
+Operational
+Process
+
+Organizational Influences are factors in a mishap if the
+communications, actions, omissions or policies of upper-level
+management directly or indirectly affect supervisory practices,
+conditions or actions of the operator(s) and result in system failure,
+human error or an unsafe situation.
+
+Aviation Safety Class
+
+16
+
+EXAMPLE
+COLLECTION OF CAUSAL FACTORS IN ACCIDENT
+AND CLASSIFICATION OF LATENT AND CTIVE FAILURES
+
+Aviation Safety Class
+
+17
+
+UNSAFE ACTS
+
+e1 “The pilot deviated from the
+planned flight.” the pilot
+consciously chose the 310 radial”.
+ERROR → DECISION ERROR
+e1.1 “the pilot forgot to switch the
+OBS when switching his
+navigation aids to the desired
+course.”
+ERROR → SKILL-BASED ERROR
+
+PRECONDITIONS FOR
+UNAFE ACTS
+e5. “The pilot failed to see
+distinctive cloud formation”.
+
+PERSONNEL FACTORS →
+ADVERSE MENTAL STATE
+
+e6. “The pilot significantly
+misrepresented his
+experience“.
+PERSONNEL FACTORS →
+READINESS VIOLATION
+
+e2. “The pilot’s decision to
+continue the flight into instrument
+meteorological conditions (IMC)”
+ERROR → VIOLATION
+e3. “Failure to recognize the
+significance of a cloud layer
+produced by orographic
+phenomenon”.
+ERROR → DECISION ERROR
+
+e4.“The pilot failed to rely on
+instruments at encounter of
+IMC”.
+ERROR → SKILL-BASED ERROR
+
+UNSAFE
+SUPERVISIO
+N
+
+e
+
+ORGANISATIONAL
+INFLUENCE
+e7. “Lack of peremployment background
+check by the SAT
+airline.”
+RESOURCES
+MANAGEMEMENT
+(Organizational
+policy)
+
+HFACS MODEL
+LATENT FAILURES
+e7. FAA Failed to conduct background check
+
+LATENT FAILURES
+
+ACTIVE AND LATENT FAILURES
+e5. Physical/mental limitation
+e6. Misrepresented Credentials
+
+ACTIVE FAILURES
+e4. Failed to scan instruments
+e2. Pilot Penetrated IMC when VMC only.
+
+ACCIDENT & INJURY
+
+Aircraft crashed into side
+of mountain
+
+Aviation Safety Class
+
+19
+
+EXAMPLE OF TAXONOMY UNSAFE ACTS
+
+AE000 UNSAFE ACTS -> AEX00 Errors ->
+
+AE000 UNSAFE ACTS -> AV100 Violations ->
+
+20
+
+How to use the HFACS MODEL
+By using the HFACS framework for accident investigation, organizations are able
+
+to identify the breakdowns within the entire system that allowed an accident to
+occur.
+HFACS can also be used proactively by analyzing historical events to identify
+reoccurring trends in human performance and system deficiencies.
+Both of these methods will allow organisations to identify weak areas and
+implement targeted, data-driven interventions that will ultimately reduce accident
+and injury rates.
+
+HFACS Highlights important human factors safety issues and their relationships.
+What are the holes in the swiss cheese (Reason) model ?
+Aren’t they too numerous to define?
+Helps target the need for specific intervention strategies.
+
+Aviation Safety Class
+
+21
+
+How to use the HFACS MODEL
+How can HFACS be used to prevent accidents before they occur ?
+1. The HFACS is a
+tool for guiding future accident investigations in
+identifying common trends and for developing better accident databases,
+both of which would improve the quality and accessibility of human factors
+accident data.
+2. Common trends within an organization can be derived from comparisons
+of psychological origins of the unsafe acts, or from the latent conditions
+that allowed these acts within the organization.
+3. Identifying those common trends supports the identification
+prioritization of where intervention is needed within an organisation.
+
+and
+
+4. By using HFACS, an organization can identify what hazards and where
+have arisen in the near past, and implement procedures to prevent these
+hazards. This will result in improved human performance and decreased
+accident and injury rates.
+
+Aviation Safety Class
+
+22
+
+Reference
+
+Aviation Safety Classs
+DIMEAS
+Politecnico di Torino
+Marco Gajetti
+
+This document is the property and copyright of DIMEAS Politecnico di Torino. It is supplied commercially in confidence for the sole purpose of tendering for the above named
+project. It shall not be copied, scanned, electronically stored or passed to any third party without the express written consent of DIMEAS Politecnico di Torino
+
+Aviation Safety Class
+
+23
+
+

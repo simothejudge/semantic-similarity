@@ -1,0 +1,46 @@
+# WORKER-WORKER --> Controllers: supervision --> 3
+south sector controller do not notice error clear altitude
+controller firstly authorise flight descend
+remembering be previously assign tower aircraft inform flight descend maintain
+the pilot had to delay the flight due to controller request
+# WORKER-WORKER --> Crew interactions: coordination --> 5
+crosscheck was difficult because of interference
+# WORKER-WORKER --> Crew interactions: supervision --> 10
+this clearance be immediately correct acc result previous communication pantelleria tower presence flight
+controller do not notice aircraft be opposite direction
+# WORKER-WORKER --> Oral communication --> 17
+this clearance be immediately correct acc result previous communication pantelleria tower presence flight
+at another flight be be clear descend controller
+the crew did not receive any radio transmission reply from the tower control
+crew and controller did not have regular communication during the accident
+# WORKER-WORKER --> Oral communication: read back --> 20
+the be clear climb the crew read back flight
+they do not realise wrong read back flight
+# WORKER-MANAGEMENT --> personnel interaction: crew scheduling --> 34
+arrival delay two hour compromise crew duty time requirement
+mission be plan two flight leg short rest period
+schedule crew be strict
+not clear directives were given over the time schedule
+# WORKER-MANAGEMENT --> personnel interaction: operational support/control --> 37
+dispatcher do not bring flight crew attention need contaminate runway operation
+dispatcher do not review land performance limitation crew
+dispatcher fail brief commander potential problem
+airline agent do not report dispatcher headquarters issue
+problems in alerting the airport flight safety crew
+# WORKER-MANAGEMENT --> personnel interaction: personnel training --> 38
+crew do not practice hydroplaning technique
+the crew was nor aware on communication training
+# WORKER-MANAGEMENT --> personnel interaction: personnel selection --> 40
+pair two pilot be inexperienced type aircraft
+# WORKER-MANAGEMENT --> personnel interaction: resource allocation --> 44
+rescue service be particularly slow intervene
+people airport staff organisation do not correct ndb wrong indication
+firefighting rescue service be not adequate
+crew be not properly compose for complexity mission
+absence of specific equipment
+Planned expectations on the resources were wrong
+people were adequate for the mission
+# WORKER-MANAGEMENT --> Regulatory agency: inspection --> 53
+line management regulatory authority fail conduct adequate inspection airport infrastructure
+# WORKER-MANAGEMENT --> Regulatory agency: surveillance --> 57
+lack radar surveillance rome acc cta officer
