@@ -66,4 +66,4 @@ TF is the one performing better on total %, basically because of the usage of a 
 In addition, the general accuracy of Gensim is worse by only 2 points although the model is simpler and easier to implement. This is why we recommended the Gensim model for our specific scenario.
  
 Overall, the results of our prototype fully meet the goals of the research. We presented an alternative way to support the investigator in identifying human factors by processing unstructured text (language). 
-But what is more interesting is that we could leverage the outcome of our solution and use it as a more structured input dataset to train a more sophisticated neural network, that can perform autonomously sentence semantic similarity, without the need for word and sentence embedding. 
+But what is more interesting is that we could leverage the outcome of our solution and use it as a more structured input dataset to train a more sophisticated neural network, that can perform autonomously sentence semantic similarity, like a pre-trained model, specialized in aviation domain. 
